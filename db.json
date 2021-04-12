@@ -1,11 +1,6 @@
 {
   "technologies": [
     {
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/python"
-        }
-      },
       "title": "Python",
       "subtitle": "Language",
       "description": "Build efficient and lightweight microservices in Python",
@@ -14,14 +9,14 @@
         "2.7",
         "3.5",
         "3.6"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/node"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/python"
         }
-      },
+      }
+    },
+    {
       "title": "NodeJS",
       "subtitle": "Language",
       "description": "Open-source, cross-platform, JavaScript runtime server environment",
@@ -30,14 +25,14 @@
         "v12",
         "v14",
         "v15"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/java"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/node"
         }
-      },
+      }
+    },
+    {
       "title": "Java",
       "subtitle": "Language",
       "description": "Step up to modern cloud development with Oracle Java",
@@ -47,42 +42,42 @@
         "11",
         "14",
         "15"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/kotlin"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/java"
         }
-      },
+      }
+    },
+    {
       "title": "Kotlin",
       "subtitle": "Language",
       "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
       "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
       "versions": [
         "1.2.30"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/golang"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kotlin"
         }
-      },
+      }
+    },
+    {
       "title": "Go",
       "subtitle": "Language",
       "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
       "image": "https://icongr.am/devicon/go-original.svg",
       "versions": [
         "1.15"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/csharp"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/golang"
         }
-      },
+      }
+    },
+    {
       "title": "C#",
       "subtitle": "Language",
       "description": "",
@@ -90,21 +85,26 @@
       "versions": [
         "7.0",
         "8.0"
-      ]
-    },
-    {
+      ],
       "_links": {
         "self": {
-          "href": "https://my.api.mockaroo.com/technologies/swift"
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/csharp"
         }
-      },
+      }
+    },
+    {
       "title": "Swift",
       "subtitle": "Language",
       "description": "",
       "image": "https://icongr.am/devicon/swift-original.svg",
       "versions": [
         "5"
-      ]
+      ],
+      "_links": {
+        "self": {
+          "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/swift"
+        }
+      }
     }
   ]
 }
