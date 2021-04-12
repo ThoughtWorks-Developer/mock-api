@@ -2,21 +2,21 @@
   {
     "title": "Redis",
     "subtitle": "NoSQL Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/redis-original.svg",
     "versions": [
       "4.0.6"
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/redis"
+        "href": "http://localhost:3000/technologies/redis"
       }
     }
   },
   {
     "title": "Elastic Search",
     "subtitle": "NoSQL Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
     "versions": [
       "5.2",
@@ -24,7 +24,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/elasticsearch"
+        "href": "http://localhost:3000/technologies/elasticsearch"
       }
     }
   },
@@ -40,14 +40,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/rethinkdb"
+        "href": "http://localhost:3000/technologies/rethinkdb"
       }
     }
   },
   {
     "title": "Neo4j",
     "subtitle": "NoSQL Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
     "versions": [
       "3.2.6",
@@ -55,14 +55,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/neo4j"
+        "href": "http://localhost:3000/technologies/neo4j"
       }
     }
   },
   {
     "title": "MySQL",
     "subtitle": "Relational Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
     "versions": [
       "5.6",
@@ -70,14 +70,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/mysql"
+        "href": "http://localhost:3000/technologies/mysql"
       }
     }
   },
   {
     "title": "SQL Server",
     "subtitle": "Relational Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
     "versions": [
       "15.0",
@@ -86,14 +86,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/sqlserver"
+        "href": "http://localhost:3000/technologies/sqlserver"
       }
     }
   },
   {
     "title": "MongoDB",
     "subtitle": "NoSQL Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/mongodb-original.svg",
     "versions": [
       "3.0",
@@ -102,14 +102,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/mongodb"
+        "href": "http://localhost:3000/technologies/mongodb"
       }
     }
   },
   {
     "title": "MariaDB",
     "subtitle": "Relational Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
     "versions": [
       "10.1",
@@ -118,14 +118,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/mariadb"
+        "href": "http://localhost:3000/technologies/mariadb"
       }
     }
   },
   {
     "title": "PostgreSQl",
     "subtitle": "Relational Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/postgresql-original.svg",
     "versions": [
       "9.6.6",
@@ -133,27 +133,27 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/postgresql"
+        "href": "http://localhost:3000/technologies/postgresql"
       }
     }
   },
   {
     "title": "Cassandra",
     "subtitle": "NoSQL Database",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
     "versions": [
       "3.11.1"
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/cassandra"
+        "href": "http://localhost:3000/technologies/cassandra"
       }
     }
   },
   {
     "title": "CouchDB",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/couchdb-original.svg",
     "versions": [
       "1.7.1",
@@ -161,7 +161,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my.api.mockaroo.com/technologies/couchdb"
+        "href": "http://localhost:3000/technologies/couchdb"
       }
     }
   }

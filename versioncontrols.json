@@ -2,30 +2,33 @@
    {
       "title": "GitHub",
       "subtitle": "Version Control",
+      "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/devicon/github-original.svg",
       "_links": {
          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/github"
+            "href": "http://localhost:3000/technologies/github"
          }
       }
    },
    {
       "title": "GitLab",
       "subtitle": "Version Control",
+      "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/devicon/gitlab-original.svg",
       "_links": {
          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gitlab"
+            "href": "http://localhost:3000/technologies/gitlab"
          }
       }
    },
    {
       "title": "Bitbucket",
       "subtitle": "Version Control",
+      "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/devicon/bitbucket-original.svg",
       "_links": {
          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/bitbucket"
+            "href": "http://localhost:3000/technologies/bitbucket"
          }
       }
    }

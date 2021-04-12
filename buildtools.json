@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Maven",
+    "subtitle": "Build Tool",
+    "image": "https://icongr.am/simple/apache.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "versions": ["3.8.1", "3.5.4", "3.3.9"],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/maven"
+      }
+    }
+  },
+  {
+    "title": "Gradle",
+    "subtitle": "Build Tool",
+    "image": "https://icongr.am/devicon/gradle-plain.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "versions": ["7.0", "6.8.3", "6.6.1"],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/gradle"
+      }
+    }
+  },
+  {
+    "title": "GNU",
+    "subtitle": "Build Tool",
+    "image": "https://icongr.am/simple/gnu.svg?colored=true",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "versions": ["7.0", "6.8.3", "6.6.1"],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/gnu"
+      }
+    }
+  },
+  {
+    "title": "NuGet",
+    "subtitle": "Build Tool",
+    "image": "https://icongr.am/simple/nuget.svg?colored=true",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "versions": ["7.0", "6.8.3", "6.6.1"],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/nuget"
+      }
+    }
+  }
+]

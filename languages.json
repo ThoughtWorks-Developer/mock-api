@@ -11,7 +11,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/python"
+        "href": "http://localhost:3000/technologies/python"
       }
     }
   },
@@ -27,7 +27,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/node"
+        "href": "http://localhost:3000/technologies/node"
       }
     }
   },
@@ -44,7 +44,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/java"
+        "href": "http://localhost:3000/technologies/java"
       }
     }
   },
@@ -58,7 +58,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kotlin"
+        "href": "http://localhost:3000/technologies/kotlin"
       }
     }
   },
@@ -72,7 +72,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/golang"
+        "href": "http://localhost:3000/technologies/golang"
       }
     }
   },
@@ -87,7 +87,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/csharp"
+        "href": "http://localhost:3000/technologies/csharp"
       }
     }
   },
@@ -103,7 +103,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/swift"
+        "href": "http://localhost:3000/technologies/swift"
       }
     }
   },
@@ -118,7 +118,7 @@
         ],
       "_links": {
           "self": {
-              "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/ruby"
+              "href": "http://localhost:3000/technologies/ruby"
           }
       }
   }

@@ -10,7 +10,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/dotnetcore"
+        "href": "http://localhost:3000/technologies/dotnetcore"
       }
     }
   },
@@ -24,21 +24,21 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/django"
+        "href": "http://localhost:3000/technologies/django"
       }
     }
   },
   {
     "title": "DropWizard",
     "subtitle": "Framework",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
     "versions": [
       "0.0"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/dropwizard"
+        "href": "http://localhost:3000/technologies/dropwizard"
       }
     }
   },
@@ -54,21 +54,21 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/springboot"
+        "href": "http://localhost:3000/technologies/springboot"
       }
     }
   },
   {
     "title": "VERT.X",
     "subtitle": "Framework",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
     "versions": [
       "3.5.0"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/vertx"
+        "href": "http://localhost:3000/technologies/vertx"
       }
     }
   },
@@ -82,7 +82,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/nameko"
+        "href": "http://localhost:3000/technologies/nameko"
       }
     }
   },
@@ -96,21 +96,21 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/express"
+        "href": "http://localhost:3000/technologies/express"
       }
     }
   },
   {
     "title": "Falcon",
     "subtitle": "Framework",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
     "versions": [
       "1.4.0b2"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/falcon"
+        "href": "http://localhost:3000/technologies/falcon"
       }
     }
   },
@@ -125,14 +125,14 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/loopback"
+        "href": "http://localhost:3000/technologies/loopback"
       }
     }
   },
   {
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/flask"
+        "href": "http://localhost:3000/technologies/flask"
       }
     },
     "title": "Flask",
@@ -153,7 +153,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/hapi"
+        "href": "http://localhost:3000/technologies/hapi"
       }
     }
   },
@@ -167,7 +167,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/restify"
+        "href": "http://localhost:3000/technologies/restify"
       }
     }
   },
@@ -181,35 +181,35 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/seneca"
+        "href": "http://localhost:3000/technologies/seneca"
       }
     }
   },
   {
     "title": "Beego",
     "subtitle": "Framework",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
     "versions": [
       "0.0"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/beego"
+        "href": "http://localhost:3000/technologies/beego"
       }
     }
   },
   {
     "title": "Gin",
     "subtitle": "Framework",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
     "versions": [
       "0.0"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gin"
+        "href": "http://localhost:3000/technologies/gin"
       }
     }
   },
@@ -223,7 +223,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gizmo"
+        "href": "http://localhost:3000/technologies/gizmo"
       }
     }
   },
@@ -237,7 +237,7 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gokit"
+        "href": "http://localhost:3000/technologies/gokit"
       }
     }
   }

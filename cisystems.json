@@ -1,0 +1,68 @@
+[
+  {
+    "title": "GitHub Actions",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/devicon/github.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/githubactions"
+      }
+    }
+  },
+  {
+    "title": "Azure Pipelines",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/simple/azurepipelines.svg?colored=true",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/azurepipelines"
+      }
+    }
+  },
+  {
+    "title": "Circle CI",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/devicon/circleci-original.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/circleci"
+      }
+    }
+  },
+  {
+    "title": "GitLab CI",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/devicon/gitlab-original.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/gitlabci"
+      }
+    }
+  },
+  {
+    "title": "Travis CI",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/devicon/travisci-original.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/travisci"
+      }
+    }
+  },
+  {
+    "title": "Codeship",
+    "subtitle": "CI System",
+    "image": "https://icongr.am/simple/codeship.svg?colored=true",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/codeship"
+      }
+    }
+  }
+]

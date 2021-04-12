@@ -2,21 +2,21 @@
   {
     "title": "Kafka",
     "subtitle": "Messaging",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/apachekafka.svg?color=000000",
     "versions": [
       "1.0"
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kafka"
+        "href": "http://localhost:3000/technologies/kafka"
       }
     }
   },
   {
     "title": "RabbitMQ",
     "subtitle": "Messaging",
-    "description": "",
+    "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/rabbitmq.svg?color=FF6600",
     "versions": [
       "3.8.14",
@@ -26,8 +26,24 @@
     ],
     "_links": {
       "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/rabbitmq"
+        "href": "http://localhost:3000/technologies/rabbitmq"
       }
     }
-  }
+  },
+  {
+    "title": "NATS",
+    "subtitle": "Messaging",
+    "description": "NATS.io is a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+    "versions": [
+      "2.2",
+      "2.0"
+    ],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/nat"
+      }
+    }
+  },
+  
 ]

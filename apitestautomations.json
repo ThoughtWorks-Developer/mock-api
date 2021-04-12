@@ -1,0 +1,35 @@
+[
+  {
+    "title": "API Fortress",
+    "subtitle": "API Test Automation",
+    "image": "https://icongr.am/simple/apifortress.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/apifortress"
+      }
+    }
+  },
+  {
+    "title": "Ready API",
+    "subtitle": "API Test Automation",
+    "image": "https://icongr.am/devicon/gradle-plain.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/readyapi"
+      }
+    }
+  },
+  {
+    "title": "Postman",
+    "subtitle": "API Test Automation",
+    "image": "https://icongr.am/devicon/postman.svg",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/postman"
+      }
+    }
+  }
+]
