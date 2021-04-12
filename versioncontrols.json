@@ -1,0 +1,32 @@
+[
+   {
+      "title": "GitHub",
+      "subtitle": "Version Control",
+      "image": "https://icongr.am/devicon/github-original.svg",
+      "_links": {
+         "self": {
+            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/github"
+         }
+      }
+   },
+   {
+      "title": "GitLab",
+      "subtitle": "Version Control",
+      "image": "https://icongr.am/devicon/gitlab-original.svg",
+      "_links": {
+         "self": {
+            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gitlab"
+         }
+      }
+   },
+   {
+      "title": "Bitbucket",
+      "subtitle": "Version Control",
+      "image": "https://icongr.am/devicon/bitbucket-original.svg",
+      "_links": {
+         "self": {
+            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/bitbucket"
+         }
+      }
+   }
+]
