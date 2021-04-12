@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Kafka",
+    "subtitle": "Messaging",
+    "description": "",
+    "image": "https://icongr.am/simple/apachekafka.svg?color=000000",
+    "versions": [
+      "1.0"
+    ],
+    "_links": {
+      "self": {
+        "href": "https://my.api.mockaroo.com/technologies/kafka"
+      }
+    }
+  },
+  {
+    "title": "RabbitMQ",
+    "subtitle": "Messaging",
+    "description": "",
+    "image": "https://icongr.am/simple/rabbitmq.svg?color=FF6600",
+    "versions": [
+      "3.5.3-management",
+      "3.6.2-management",
+      "3.7.2"
+    ],
+    "_links": {
+      "self": {
+        "href": "https://my.api.mockaroo.com/technologies/rabbitmq"
+      }
+    }
+  }
+]
