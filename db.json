@@ -301,6 +301,74 @@
           "href": "https://my.api.mockaroo.com/technologies/rabbitmq"
         }
       }
+    },
+    [
+  {
+    "title": "GitHub Actions",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/github.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/githubactions"
+      }
     }
+  },
+  {
+    "title": "Azure DevOps",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/couchdb-original.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/azuredevops"
+      }
+    }
+  },
+  {
+    "title": "Circle CI",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/circleci-original.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/circleci"
+      }
+    }
+  },
+  {
+    "title": "GitLab CI",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/gitlab-original.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gitlabci"
+      }
+    }
+  },
+  {
+    "title": "Travis CI",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/travisci-original.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/travisci"
+      }
+    }
+  },
+  {
+    "title": "TeamCity",
+    "subtitle": "Continuous Integration",
+    "image": "https://icongr.am/devicon/teamcity-original.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/teamcity"
+      }
+    }
+  }
+]
   ]
 }
