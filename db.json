@@ -136,22 +136,6 @@
       }
     },
     {
-      "title": "RethinkDB",
-      "subtitle": "NoSQL Database",
-      "description": "The open-source database for the realtime web",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
-      "versions": [
-        "2.3.4",
-        "2.3.5",
-        "2.3.6"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/rethinkdb"
-        }
-      }
-    },
-    {
       "title": "Neo4j",
       "subtitle": "NoSQL Database",
       "description": "",
@@ -355,17 +339,6 @@
         "_links": {
           "self": {
             "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/travisci"
-          }
-        }
-      },
-      {
-        "title": "TeamCity",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/teamcity-original.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/teamcity"
           }
         }
       }
