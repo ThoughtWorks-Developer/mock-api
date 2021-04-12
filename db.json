@@ -105,6 +105,93 @@
           "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/swift"
         }
       }
-    }
+    },
+    {
+        "title": "Redis",
+        "subtitle": "NoSQL Database",
+        "description": "",
+        "image": "https://icongr.am/devicon/redis-original.svg",
+        "versions": ["4.0.6"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/redis" } }
+      },
+      {
+        "title": "Elastic Search",
+        "subtitle": "NoSQL Database",
+        "description": "",
+        "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
+        "versions": ["5.2", "6.1"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/elasticsearch" } }
+      },
+      {
+        "title": "RethinkDB",
+        "subtitle": "NoSQL Database",
+        "description": "The open-source database for the realtime web",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
+        "versions": ["2.3.4", "2.3.5", "2.3.6"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/rethinkdb" } }
+      },
+      {
+        "title": "Neo4j",
+        "subtitle": "NoSQL Database",
+        "description": "",
+        "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
+        "versions": ["3.2.6", "3.3.3"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/neo4j" } }
+      },
+      {
+        "title": "MySQL",
+        "subtitle": "Relational Database",
+        "description": "",
+        "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
+        "versions": ["5.6", "5.7"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mysql" } }
+      },
+      {
+        "title": "SQL Server",
+        "subtitle": "Relational Database",
+        "description": "",
+        "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+        "versions": ["15.0", "14.0", "13.0"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/sqlserver" } }
+      },
+      {
+        "title": "MongoDB",
+        "subtitle": "NoSQL Database",
+        "description": "",
+        "image": "https://icongr.am/devicon/mongodb-original.svg",
+        "versions": ["3.0", "3.4", "3.6"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mongodb" } }
+      },
+      {
+        "title": "MariaDB",
+        "subtitle": "Relational Database",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+        "versions": ["10.1", "10.2", "10.3"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mariadb" } }
+      },
+      {
+        "title": "PostgreSQl",
+        "subtitle": "Relational Database",
+        "description": "",
+        "image": "https://icongr.am/devicon/postgresql-original.svg",
+        "versions": ["9.6.6", "10.1"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/postgresql" } }
+      },
+      {
+        "title": "Cassandra",
+        "subtitle": "NoSQL Database",
+        "description": "",
+        "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
+        "versions": ["3.11.1"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/cassandra" } }
+      },
+      {
+        "title": "CouchDB",
+        "description": "",
+        "image": "https://icongr.am/devicon/couchdb-original.svg",
+        "versions": ["1.7.1", "2.1.1"],
+        "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/couchdb" } }
+      }
   ]
 }
