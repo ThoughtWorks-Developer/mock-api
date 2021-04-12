@@ -107,6 +107,142 @@
       }
     },
     {
+        "title": ".NET Core",
+        "subtitle": "Framework",
+        "description": ".NET Core is a cross-platform version of .NET for building websites, services, and console apps",
+        "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604417476/lowcoderr/catalog/items/dot-net-core.svg",
+        "versions": ["2.0", "3.1"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/dotnetcore" } }
+      },
+      {
+        "title": "Django",
+        "subtitle": "Framework",
+        "description": "Django REST framework is a powerful and flexible toolkit for building Web APIs",
+        "image": "https://icongr.am/simple/django.svg?color=092E20",
+        "versions": ["v3.12.1"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/django" } }
+      },
+      {
+        "title": "DropWizard",
+        "subtitle": "Framework",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
+        "versions": ["0.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/dropwizard" } }
+      },
+      {
+        "title": "Spring Boot",
+        "subtitle": "Framework",
+        "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springboot.png",
+        "versions": ["1.5.4.RELEASE", "1.5.9.RELEASE", "2.3.4.RELEASE"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/springboot" } }
+      },
+      {
+        "title": "VERT.X",
+        "subtitle": "Framework",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
+        "versions": ["3.5.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/vertx" } }
+      },
+      {
+        "title": "Nameko",
+        "subtitle": "Framework",
+        "description": "A microservice framework for Python",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nameko.png",
+        "versions": ["2.13.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/nameko" } }
+      },
+      {
+        "title": "Express",
+        "subtitle": "Framework",
+        "description": "Fast, unopinionated, minimalist web framework for Node.js",
+        "image": "https://icongr.am/devicon/express-original.svg?size=128&color=currentColor",
+        "versions": ["4.17.1"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/express" } }
+      },
+      {
+        "title": "Falcon",
+        "subtitle": "Framework",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
+        "versions": ["1.4.0b2"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/falcon" } }
+      },
+      {
+        "title": "LoopBack",
+        "subtitle": "Framework",
+        "description": "A highly extensible Node.js framework for building APIs and microservices",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loopback1.png",
+        "versions": ["3", "4"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/loopback" } }
+      },
+      {
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/flask" } },
+        "title": "Flask",
+        "subtitle": "Framework",
+        "description": "Flask is a lightweight WSGI web application framework",
+        "image": "https://icongr.am/simple/flask.svg?color=000000",
+        "versions": ["1.1.2"]
+      },
+      {
+        "title": "hapi",
+        "subtitle": "Framework",
+        "description": "Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi_transparent.png",
+        "versions": ["v17"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/hapi" } }
+      },
+      {
+        "title": "restify",
+        "subtitle": "Framework",
+        "description": "The future of Node.js REST development",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/restify.svg",
+        "versions": ["v7.0.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/restify" } }
+      },
+      {
+        "title": "Senaca",
+        "subtitle": "Framework",
+        "description": "A microservice toolkit for Node.js",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/seneca.svg",
+        "versions": ["3.22.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/seneca" } }
+      },
+      {
+        "title": "Beego",
+        "subtitle": "Framework",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
+        "versions": ["0.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/beego" } }
+      },
+      {
+        "title": "Gin",
+        "subtitle": "Framework",
+        "description": "",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
+        "versions": ["0.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gin" } }
+      },
+      {
+        "title": "Gizmo",
+        "subtitle": "Framework",
+        "description": "Gizmo helps developers quickly configure and build microservice APIs and pubsub daemons",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
+        "versions": ["0.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gizmo" } }
+      },
+      {
+        "title": "Go kit",
+        "subtitle": "Framework",
+        "description": "A programming toolkit for microservices",
+        "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gokit.png",
+        "versions": ["v0.10.0"],
+        "_links": { "self": { "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gokit" } }
+      },
+    {
         "title": "Redis",
         "subtitle": "NoSQL Database",
         "description": "",
