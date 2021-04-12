@@ -199,14 +199,6 @@
             "description": "",
             "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gorilla.png",
             "versions": ["0.0"]
-          },
-          {
-            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/hibernate" } },
-            "title": "Hibernate Validator",
-            "subtitle": "Library",
-            "description": "Hibernate Validator allows to express and validate application constraints",
-            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604418189/lowcoderr/catalog/items/hibernate.svg",
-            "versions": ["6.1.6.Final", "6.0.21.Final"]
           }
     ]
 }
