@@ -1,364 +1,363 @@
 {
-  "technologies": [
-   {
-    "title": "Python",
-    "subtitle": "Language",
-    "description": "Build efficient and lightweight microservices in Python",
-    "image": "https://icongr.am/devicon/python-original.svg",
-    "versions": [
-      "2.7",
-      "3.5",
-      "3.6"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/python"
-      }
-    }
-  },
-  {
-    "title": "NodeJS",
-    "subtitle": "Language",
-    "description": "Open-source, cross-platform, JavaScript runtime server environment",
-    "image": "https://icongr.am/devicon/nodejs-original.svg",
-    "versions": [
-      "v12",
-      "v14",
-      "v15"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/node"
-      }
-    }
-  },
-  {
-    "title": "Java",
-    "subtitle": "Language",
-    "description": "Step up to modern cloud development with Oracle Java",
-    "image": "https://icongr.am/devicon/java-original.svg",
-    "versions": [
-      "8",
-      "11",
-      "15",
-      "16"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/java"
-      }
-    }
-  },
-  {
-    "title": "Kotlin",
-    "subtitle": "Language",
-    "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
-    "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
-    "versions": [
-      "1.2.30"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kotlin"
-      }
-    }
-  },
-  {
-    "title": "Go",
-    "subtitle": "Language",
-    "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
-    "image": "https://icongr.am/devicon/go-original.svg",
-    "versions": [
-      "1.15"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/golang"
-      }
-    }
-  },
-  {
-    "title": "C#",
-    "subtitle": "Language",
-    "description": "C# is a general purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET framework.",
-    "image": "https://icongr.am/devicon/csharp-original.svg",
-    "versions": [
-      "7.0",
-      "8.0"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/csharp"
-      }
-    }
-  },
-  {
-    "title": "Swift",
-    "subtitle": "Language",
-    "description": "Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond",
-    "image": "https://icongr.am/devicon/swift-original.svg",
-    "versions": [
-        "5.3.2",
-        "5.2.4",
-        "5.1.2"
-    ],
-    "_links": {
-      "self": {
-        "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/swift"
-      }
-    }
-  },
-  {
-      "title": "Ruby",
-      "subtitle": "Language",
-      "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
-      "image": "https://icongr.am/devicon/ruby-original.svg",
-      "versions": [
+   "technologies": [
+      {
+         "title": "Python",
+         "subtitle": "Language",
+         "description": "Build efficient and lightweight microservices in Python",
+         "image": "https://icongr.am/devicon/python-original.svg",
+         "versions": [
+            "2.7",
+            "3.5",
+            "3.6"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/python"
+            }
+         }
+      },
+      {
+         "title": "NodeJS",
+         "subtitle": "Language",
+         "description": "Open-source, cross-platform, JavaScript runtime server environment",
+         "image": "https://icongr.am/devicon/nodejs-original.svg",
+         "versions": [
+            "v12",
+            "v14",
+            "v15"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/node"
+            }
+         }
+      },
+      {
+         "title": "Java",
+         "subtitle": "Language",
+         "description": "Step up to modern cloud development with Oracle Java",
+         "image": "https://icongr.am/devicon/java-original.svg",
+         "versions": [
+            "8",
+            "11",
+            "15",
+            "16"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/java"
+            }
+         }
+      },
+      {
+         "title": "Kotlin",
+         "subtitle": "Language",
+         "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
+         "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
+         "versions": [
+            "1.2.30"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kotlin"
+            }
+         }
+      },
+      {
+         "title": "Go",
+         "subtitle": "Language",
+         "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
+         "image": "https://icongr.am/devicon/go-original.svg",
+         "versions": [
+            "1.15"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/golang"
+            }
+         }
+      },
+      {
+         "title": "C#",
+         "subtitle": "Language",
+         "description": "C# is a general purpose, multi-paradigm programming language developed by Microsoft that runs on the .NET framework.",
+         "image": "https://icongr.am/devicon/csharp-original.svg",
+         "versions": [
+            "7.0",
+            "8.0"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/csharp"
+            }
+         }
+      },
+      {
+         "title": "Swift",
+         "subtitle": "Language",
+         "description": "Swift is a powerful and intuitive programming language for macOS, iOS, watchOS, tvOS and beyond",
+         "image": "https://icongr.am/devicon/swift-original.svg",
+         "versions": [
+            "5.3.2",
+            "5.2.4",
+            "5.1.2"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/swift"
+            }
+         }
+      },
+      {
+         "title": "Ruby",
+         "subtitle": "Language",
+         "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+         "image": "https://icongr.am/devicon/ruby-original.svg",
+         "versions": [
             "2.7.2",
             "2.4.10"
-        ],
-      "_links": {
-          "self": {
-              "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/ruby"
-          }
-      }
-  },
-    {
-      "title": "Redis",
-      "subtitle": "NoSQL Database",
-      "description": "",
-      "image": "https://icongr.am/devicon/redis-original.svg",
-      "versions": [
-        "4.0.6"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/redis"
-        }
-      }
-    },
-    {
-      "title": "Elastic Search",
-      "subtitle": "NoSQL Database",
-      "description": "",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
-      "versions": [
-        "5.2",
-        "6.1"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/elasticsearch"
-        }
-      }
-    },
-    {
-      "title": "Neo4j",
-      "subtitle": "NoSQL Database",
-      "description": "",
-      "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
-      "versions": [
-        "3.2.6",
-        "3.3.3"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/neo4j"
-        }
-      }
-    },
-    {
-      "title": "MySQL",
-      "subtitle": "Relational Database",
-      "description": "",
-      "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
-      "versions": [
-        "5.6",
-        "5.7"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/mysql"
-        }
-      }
-    },
-    {
-      "title": "SQL Server",
-      "subtitle": "Relational Database",
-      "description": "",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
-      "versions": [
-        "15.0",
-        "14.0",
-        "13.0"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/sqlserver"
-        }
-      }
-    },
-    {
-      "title": "MongoDB",
-      "subtitle": "NoSQL Database",
-      "description": "",
-      "image": "https://icongr.am/devicon/mongodb-original.svg",
-      "versions": [
-        "3.0",
-        "3.4",
-        "3.6"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/mongodb"
-        }
-      }
-    },
-    {
-      "title": "MariaDB",
-      "subtitle": "Relational Database",
-      "description": "",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
-      "versions": [
-        "10.1",
-        "10.2",
-        "10.3"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/mariadb"
-        }
-      }
-    },
-    {
-      "title": "PostgreSQl",
-      "subtitle": "Relational Database",
-      "description": "",
-      "image": "https://icongr.am/devicon/postgresql-original.svg",
-      "versions": [
-        "9.6.6",
-        "10.1"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/postgresql"
-        }
-      }
-    },
-    {
-      "title": "Cassandra",
-      "subtitle": "NoSQL Database",
-      "description": "",
-      "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
-      "versions": [
-        "3.11.1"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/cassandra"
-        }
-      }
-    },
-    {
-      "title": "CouchDB",
-      "description": "",
-      "image": "https://icongr.am/devicon/couchdb-original.svg",
-      "versions": [
-        "1.7.1",
-        "2.1.1"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/couchdb"
-        }
-      }
-    },
-    {
-      "title": "Kafka",
-      "subtitle": "Messaging",
-      "description": "",
-      "image": "https://icongr.am/simple/apachekafka.svg?color=000000",
-      "versions": [
-        "1.0"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/kafka"
-        }
-      }
-    },
-    {
-      "title": "RabbitMQ",
-      "subtitle": "Messaging",
-      "description": "",
-      "image": "https://icongr.am/simple/rabbitmq.svg?color=FF6600",
-      "versions": [
-        "3.5.3-management",
-        "3.6.2-management",
-        "3.7.2"
-      ],
-      "_links": {
-        "self": {
-          "href": "https://my.api.mockaroo.com/technologies/rabbitmq"
-        }
-      }
-    },
-    [
-      {
-        "title": "GitHub Actions",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/github.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/githubactions"
-          }
-        }
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/ruby"
+            }
+         }
       },
       {
-        "title": "Azure DevOps",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/couchdb-original.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/azuredevops"
-          }
-        }
+         "title": "Redis",
+         "subtitle": "NoSQL Database",
+         "description": "",
+         "image": "https://icongr.am/devicon/redis-original.svg",
+         "versions": [
+            "4.0.6"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/redis"
+            }
+         }
       },
       {
-        "title": "Circle CI",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/circleci-original.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/circleci"
-          }
-        }
+         "title": "Elastic Search",
+         "subtitle": "NoSQL Database",
+         "description": "",
+         "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
+         "versions": [
+            "5.2",
+            "6.1"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/elasticsearch"
+            }
+         }
       },
       {
-        "title": "GitLab CI",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/gitlab-original.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gitlabci"
-          }
-        }
+         "title": "Neo4j",
+         "subtitle": "NoSQL Database",
+         "description": "",
+         "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
+         "versions": [
+            "3.2.6",
+            "3.3.3"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/neo4j"
+            }
+         }
       },
       {
-        "title": "Travis CI",
-        "subtitle": "Continuous Integration",
-        "image": "https://icongr.am/devicon/travisci-original.svg",
-        "description": "Description placeholder, not to exceedn 255 characters",
-        "_links": {
-          "self": {
-            "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/travisci"
-          }
-        }
+         "title": "MySQL",
+         "subtitle": "Relational Database",
+         "description": "",
+         "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
+         "versions": [
+            "5.6",
+            "5.7"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/mysql"
+            }
+         }
+      },
+      {
+         "title": "SQL Server",
+         "subtitle": "Relational Database",
+         "description": "",
+         "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+         "versions": [
+            "15.0",
+            "14.0",
+            "13.0"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/sqlserver"
+            }
+         }
+      },
+      {
+         "title": "MongoDB",
+         "subtitle": "NoSQL Database",
+         "description": "",
+         "image": "https://icongr.am/devicon/mongodb-original.svg",
+         "versions": [
+            "3.0",
+            "3.4",
+            "3.6"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/mongodb"
+            }
+         }
+      },
+      {
+         "title": "MariaDB",
+         "subtitle": "Relational Database",
+         "description": "",
+         "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+         "versions": [
+            "10.1",
+            "10.2",
+            "10.3"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/mariadb"
+            }
+         }
+      },
+      {
+         "title": "PostgreSQl",
+         "subtitle": "Relational Database",
+         "description": "",
+         "image": "https://icongr.am/devicon/postgresql-original.svg",
+         "versions": [
+            "9.6.6",
+            "10.1"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/postgresql"
+            }
+         }
+      },
+      {
+         "title": "Cassandra",
+         "subtitle": "NoSQL Database",
+         "description": "",
+         "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
+         "versions": [
+            "3.11.1"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/cassandra"
+            }
+         }
+      },
+      {
+         "title": "CouchDB",
+         "description": "",
+         "image": "https://icongr.am/devicon/couchdb-original.svg",
+         "versions": [
+            "1.7.1",
+            "2.1.1"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my.api.mockaroo.com/technologies/couchdb"
+            }
+         }
+      },
+      {
+         "title": "Kafka",
+         "subtitle": "Messaging",
+         "description": "",
+         "image": "https://icongr.am/simple/apachekafka.svg?color=000000",
+         "versions": [
+            "1.0"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/kafka"
+            }
+         }
+      },
+      {
+         "title": "RabbitMQ",
+         "subtitle": "Messaging",
+         "description": "",
+         "image": "https://icongr.am/simple/rabbitmq.svg?color=FF6600",
+         "versions": [
+            "3.8.14",
+            "3.7.6",
+            "3.7.0",
+            "3.6.14"
+         ],
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/rabbitmq"
+            }
+         }
+      },
+      {
+         "title": "GitHub Actions",
+         "subtitle": "Continuous Integration",
+         "image": "https://icongr.am/devicon/github.svg",
+         "description": "Description placeholder, not to exceedn 255 characters",
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/githubactions"
+            }
+         }
+      },
+      {
+         "title": "Azure DevOps",
+         "subtitle": "Continuous Integration",
+         "image": "https://icongr.am/devicon/couchdb-original.svg",
+         "description": "Description placeholder, not to exceedn 255 characters",
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/azuredevops"
+            }
+         }
+      },
+      {
+         "title": "Circle CI",
+         "subtitle": "Continuous Integration",
+         "image": "https://icongr.am/devicon/circleci-original.svg",
+         "description": "Description placeholder, not to exceedn 255 characters",
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/circleci"
+            }
+         }
+      },
+      {
+         "title": "GitLab CI",
+         "subtitle": "Continuous Integration",
+         "image": "https://icongr.am/devicon/gitlab-original.svg",
+         "description": "Description placeholder, not to exceedn 255 characters",
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/gitlabci"
+            }
+         }
+      },
+      {
+         "title": "Travis CI",
+         "subtitle": "Continuous Integration",
+         "image": "https://icongr.am/devicon/travisci-original.svg",
+         "description": "Description placeholder, not to exceedn 255 characters",
+         "_links": {
+            "self": {
+               "href": "https://my-json-server.typicode.com/salsiddiqui/technology-data/technologies/travisci"
+            }
+         }
       }
-    ]
-  ]
+   ]
 }
