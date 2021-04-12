@@ -1,0 +1,432 @@
+{
+    "technologies": [
+        {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/python" } },
+            "title": "Python",
+            "subtitle": "Language",
+            "description": "Build efficient and lightweight microservices in Python",
+            "image": "https://icongr.am/devicon/python-original.svg",
+            "versions": ["2.7", "3.5", "3.6"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/node" } },
+            "title": "NodeJS",
+            "subtitle": "Language",
+            "description": "Open-source, cross-platform, JavaScript runtime server environment",
+            "image": "https://icongr.am/devicon/nodejs-original.svg",
+            "versions": ["v12", "v14", "v15"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/java" } },
+            "title": "Java",
+            "subtitle": "Language",
+            "description": "Step up to modern cloud development with Oracle Java",
+            "image": "https://icongr.am/devicon/java-original.svg",
+            "versions": ["8", "11", "14", "15"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/kotlin" } },
+            "title": "Kotlin",
+            "subtitle": "Language",
+            "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
+            "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
+            "versions": ["1.2.30"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/golang" } },
+            "title": "Go",
+            "subtitle": "Language",
+            "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
+            "image": "https://icongr.am/devicon/go-original.svg",
+            "versions": ["1.15"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/csharp" } },
+            "title": "C#",
+            "subtitle": "Language",
+            "description": "",
+            "image": "https://icongr.am/devicon/csharp-original.svg",
+            "versions": ["7.0", "8.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/swift" } },
+            "title": "Swift",
+            "subtitle": "Language",
+            "description": "",
+            "image": "https://icongr.am/devicon/swift-original.svg",
+            "versions": ["5"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/dotnetcore" } },
+            "title": ".NET Core",
+            "subtitle": "Framework",
+            "description": ".NET Core is a cross-platform version of .NET for building websites, services, and console apps",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604417476/lowcoderr/catalog/items/dot-net-core.svg",
+            "versions": ["2.0", "3.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/django" } },
+            "title": "Django",
+            "subtitle": "Framework",
+            "description": "Django REST framework is a powerful and flexible toolkit for building Web APIs",
+            "image": "https://icongr.am/simple/django.svg?color=092E20",
+            "versions": ["v3.12.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/dropwizard" } },
+            "title": "DropWizard",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/springboot" } },
+            "title": "Spring Boot",
+            "subtitle": "Framework",
+            "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springboot.png",
+            "versions": ["1.5.4.RELEASE", "1.5.9.RELEASE", "2.3.4.RELEASE"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/vertx" } },
+            "title": "VERT.X",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
+            "versions": ["3.5.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/nameko" } },
+            "title": "Nameko",
+            "subtitle": "Framework",
+            "description": "A microservice framework for Python",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nameko.png",
+            "versions": ["2.13.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/express" } },
+            "title": "Express",
+            "subtitle": "Framework",
+            "description": "Fast, unopinionated, minimalist web framework for Node.js",
+            "image": "https://icongr.am/devicon/express-original.svg?size=128&color=currentColor",
+            "versions": ["4.17.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/falcon" } },
+            "title": "Falcon",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
+            "versions": ["1.4.0b2"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/loopback" } },
+            "title": "LoopBack",
+            "subtitle": "Framework",
+            "description": "A highly extensible Node.js framework for building APIs and microservices",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loopback1.png",
+            "versions": ["3", "4"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/flask" } },
+            "title": "Flask",
+            "subtitle": "Framework",
+            "description": "Flask is a lightweight WSGI web application framework",
+            "image": "https://icongr.am/simple/flask.svg?color=000000",
+            "versions": ["1.1.2"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/hapi" } },
+            "title": "hapi",
+            "subtitle": "Framework",
+            "description": "Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi_transparent.png",
+            "versions": ["v17"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/restify" } },
+            "title": "restify",
+            "subtitle": "Framework",
+            "description": "The future of Node.js REST development",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/restify.svg",
+            "versions": ["v7.0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/seneca" } },
+            "title": "Senaca",
+            "subtitle": "Framework",
+            "description": "A microservice toolkit for Node.js",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/seneca.svg",
+            "versions": ["3.22.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/apiblueprint" } },
+            "title": "API Blueprint",
+            "subtitle": "API Description",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/apiblueprint.png",
+            "versions": ["1A"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/jsonschema" } },
+            "title": "JSONSchema",
+            "subtitle": "API Description",
+            "description": "",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/jsonschema_lightgray.png",
+            "versions": ["draft-04", "draft-06", "draft-07"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/swagger" } },
+            "title": "Swagger",
+            "subtitle": "API Description",
+            "description": "",
+            "image": "https://icongr.am/simple/swagger.svg?color=85EA2D",
+            "versions": ["2.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/openapi" } },
+            "title": "Open API",
+            "subtitle": "API Description",
+            "description": "",
+            "image": "https://icongr.am/simple/openapiinitiative.svg?color=6BA539",
+            "versions": ["3.0.1", "3.0.2"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/raml" } },
+            "title": "RAML",
+            "description": "RESTful API Modeling Language",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604432110/lowcoderr/catalog/items/raml.svg",
+            "versions": ["0.8", "1.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/graphql" } },
+            "title": "GraphQL API",
+            "subtitle": "API Interface",
+            "description": "A query language for API",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/graphql.svg"
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/restapi" } },
+            "title": "RESTful API",
+            "subtitle": "API Interface",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rest.png"
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/serverless" } },
+            "title": "Serverless",
+            "subtitle": "Application Type",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/serverless1.png",
+            "description": ""
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/redis" } },
+            "title": "Redis",
+            "subtitle": "NoSQL Database",
+            "description": "",
+            "image": "https://icongr.am/devicon/redis-original.svg",
+            "versions": ["4.0.6"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/elasticsearch" } },
+            "title": "Elastic Search",
+            "subtitle": "NoSQL Database",
+            "description": "",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
+            "versions": ["5.2", "6.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/rethinkdb" } },
+            "title": "RethinkDB",
+            "subtitle": "NoSQL Database",
+            "description": "The open-source database for the realtime web",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
+            "versions": ["2.3.4", "2.3.5", "2.3.6"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/neo4j" } },
+            "title": "Neo4j",
+            "subtitle": "NoSQL Database",
+            "description": "",
+            "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
+            "versions": ["3.2.6", "3.3.3"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mysql" } },
+            "title": "MySQL",
+            "subtitle": "Relational Database",
+            "description": "",
+            "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
+            "versions": ["5.6", "5.7"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/sqlserver" } },
+            "title": "SQL Server",
+            "subtitle": "Relational Database",
+            "description": "",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+            "versions": ["15.0", "14.0", "13.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mongodb" } },
+            "title": "MongoDB",
+            "subtitle": "NoSQL Database",
+            "description": "",
+            "image": "https://icongr.am/devicon/mongodb-original.svg",
+            "versions": ["3.0", "3.4", "3.6", "cloudant"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/mariadb" } },
+            "title": "MariaDB",
+            "subtitle": "Relational Database",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+            "versions": ["10.1", "10.2", "10.3"]
+          },
+        
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/postgresql" } },
+            "title": "PostgreSQl",
+            "subtitle": "Relational Database",
+            "description": "",
+            "image": "https://icongr.am/devicon/postgresql-original.svg",
+            "versions": ["9.6.6", "10.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/cassandra" } },
+            "title": "Cassandra",
+            "subtitle": "NoSQL Database",
+            "description": "",
+            "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
+            "versions": ["3.11.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/couchdb" } },
+            "title": "CouchDB",
+            "description": "",
+            "image": "https://icongr.am/devicon/couchdb-original.svg",
+            "versions": ["1.7.1", "2.1.1"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/kafka" } },
+            "title": "Kafka",
+            "subtitle": "Messaging",
+            "description": "",
+            "image": "https://icongr.am/simple/apachekafka.svg?color=000000",
+            "versions": ["1.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/rabbitmq" } },
+            "title": "RabbitMQ",
+            "subtitle": "Messaging",
+            "description": "",
+            "image": "https://icongr.am/simple/rabbitmq.svg?color=FF6600",
+            "versions": ["3.5.3-management", "3.6.2-management", "3.7.2"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/beego" } },
+            "title": "Beego",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/gin" } },
+            "title": "Gin",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/gizmo" } },
+            "title": "Gizmo",
+            "subtitle": "Framework",
+            "description": "Gizmo helps developers quickly configure and build microservice APIs and pubsub daemons",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/gokit" } },
+            "title": "Go kit",
+            "subtitle": "Framework",
+            "description": "A programming toolkit for microservices",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gokit.png",
+            "versions": ["v0.10.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/gorilla" } },
+            "title": "Gorilla",
+            "subtitle": "Framework",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gorilla.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/typescript" } },
+            "title": "TypeScript",
+            "subtitle": "Language",
+            "image": "https://icongr.am/devicon/typescript-original.svg",
+            "description": "TypeScript is an open-source language which builds on JavaScript by adding static type definitions",
+            "versions": ["4.0", "4.1", "3.9"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/ecmascript" } },
+            "title": "ECMAScript",
+            "subtitle": "Language",
+            "description": "ECMAScript is a programming language, a JavaScript standard meant to ensure the interoperability of the Web pages across different web browsers",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/ecmascript.png",
+            "versions": ["5.0", "5.1", "6.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/react" } },
+            "title": "React",
+            "subtitle": "Javascript Framework",
+            "description": "",
+            "image": "https://icongr.am/devicon/react-original.svg",
+            "versions": ["16.2.0", "16.3.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/angular" } },
+            "title": "Angular",
+            "subtitle": "Javascript Framework",
+            "description": "",
+            "image": "https://icongr.am/devicon/angularjs-original.svg",
+            "versions": ["9.0", "10.2"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/springboottomcat" } },
+            "title": "Apache Tomcat",
+            "subtitle": "Web Server",
+            "description": "Apache Tomcat is an open-source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and WebSocket technologies",
+            "image": "https://icongr.am/devicon/tomcat-original.svg",
+            "versions": ["8.5.59", "9.0.39"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/jetty" } },
+            "title": "Jetty",
+            "subtitle": "Web Server",
+            "description": "Eclipse Jetty provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/jetty.svg",
+            "versions": ["9.4.33"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/undertow" } },
+            "title": "Undertow",
+            "subtitle": "Web Server",
+            "description": "",
+            "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/undertow.png",
+            "versions": ["0.0"]
+          },
+          {
+            "_links": { "self": { "href": "https://my.api.mockaroo.com/technologies/hibernate" } },
+            "title": "Hibernate Validator",
+            "subtitle": "Library",
+            "description": "Hibernate Validator allows to express and validate application constraints",
+            "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604418189/lowcoderr/catalog/items/hibernate.svg",
+            "versions": ["6.1.6.Final", "6.0.21.Final"]
+          }
+    ]
+}
