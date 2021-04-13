@@ -52,7 +52,7 @@
     "title": "Kotlin",
     "subtitle": "Language",
     "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
-    "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344149/kotlin.svg",
     "versions": [
       "1.2.30"
     ],

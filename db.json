@@ -1,7 +1,6 @@
 {
   "technologies": [
     {
-      "id": "python",
       "title": "Python",
       "subtitle": "Language",
       "description": "Build efficient and lightweight microservices in Python",
@@ -41,7 +40,7 @@
       "title": "Kotlin",
       "subtitle": "Language",
       "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
-      "image": "https://icongr.am/simple/kotlin.svg?color=0095D5",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/kotlin.svg",
       "versions": ["1.2.30"],
       "_links": {
         "self": {
@@ -154,6 +153,18 @@
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/vertx"
+        }
+      }
+    },
+    {
+      "title": "Rails",
+      "subtitle": "Framework",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor",
+      "versions": ["6.1", "6.0", "5.2", "5.1"],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/rails"
         }
       }
     },
@@ -344,6 +355,18 @@
       }
     },
     {
+      "title": "Memcached",
+      "subtitle": "NoSQL Database",
+      "description": "Free & open source, high-performance, distributed memory object caching system,",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344165/memcached.svg",
+      "version": ["1.6.9"],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/memcached"
+        }
+      }
+    },
+    {
       "title": "Elastic Search",
       "subtitle": "NoSQL Database",
       "description": "",
@@ -475,6 +498,21 @@
       }
     },
     {
+      "title": "NATS",
+      "subtitle": "Messaging",
+      "description": "NATS.io is a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+      "versions": [
+        "2.2",
+        "2.0"
+      ],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/nat"
+        }
+      }
+    },
+    {
       "title": "GitHub",
       "subtitle": "Version Control",
       "image": "https://icongr.am/devicon/github-original.svg",
@@ -497,7 +535,7 @@
     {
       "title": "Bitbucket",
       "subtitle": "Version Control",
-      "image": "https://icongr.am/devicon/bitbucket-original.svg",
+      "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/bitbucket"
@@ -507,7 +545,7 @@
     {
       "title": "GitHub Actions",
       "subtitle": "CI System",
-      "image": "https://icongr.am/devicon/github.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1618281790/githubactions.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -518,7 +556,7 @@
     {
       "title": "Azur Pipelines",
       "subtitle": "CI System",
-      "image": "https://icongr.am/simple/azurepipelines.svg",
+      "image": "https://icongr.am/simple/azurepipelines.svg?size=128&color=currentColor&colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -529,7 +567,7 @@
     {
       "title": "Circle CI",
       "subtitle": "CI System",
-      "image": "https://icongr.am/devicon/circleci-original.svg",
+      "image": "https://icongr.am/simple/circleci.svg?size=128&color=currentColor&colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -551,7 +589,7 @@
     {
       "title": "Travis CI",
       "subtitle": "CI System",
-      "image": "https://icongr.am/devicon/travisci-original.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1515770791/travisci.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -585,7 +623,7 @@
     {
       "title": "Gradle",
       "subtitle": "Build Tool",
-      "image": "https://icongr.am/devicon/gradle-plain.svg",
+      "image": "https://icongr.am/devicon/gradle-plain.svg?size=128&color=currentColor",
       "description": "Description placeholder, not to exceed 255 characters",
       "versions": ["7.0", "6.8.3", "6.6.1"],
       "_links": {
@@ -621,7 +659,7 @@
     {
       "title": "SonarQube",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/sonarqube.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/sonarqube1.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -632,7 +670,7 @@
     {
       "title": "Codacy",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/codacy.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/codacy.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -643,7 +681,7 @@
     {
       "title": "Coverity",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/coverity.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/coverity.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -654,7 +692,7 @@
     {
       "title": "Veracode",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/devicon/veracode.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/veracode.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -665,7 +703,7 @@
     {
       "title": "API Fortress",
       "subtitle": "API Test Automation",
-      "image": "https://icongr.am/simple/apifortress.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/apifortress.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -676,7 +714,7 @@
     {
       "title": "Ready API",
       "subtitle": "API Test Automation",
-      "image": "https://icongr.am/devicon/gradle-plain.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/readyapi.jpg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -687,7 +725,7 @@
     {
       "title": "Postman",
       "subtitle": "API Test Automation",
-      "image": "https://icongr.am/devicon/postman.svg",
+      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/postman.png",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -695,5 +733,41 @@
         }
       }
     }
-  ]
+  ],
+  "integrations": [
+    {
+      "title": "Apiary",
+      "subtitle": "API Definition",
+      "image": "",
+      "description": "",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/integrations/apiary"
+        }
+      }
+    },
+    {
+      "title": "StopLight",
+      "subtitle": "API Definition",
+      "image": "",
+      "description": "",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/integrations/stoplight"
+        }
+      }
+    },
+    {
+      "title": "SwaggerHub",
+      "subtitle": "API Definition",
+      "image": "",
+      "description": "",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/integrations/swaggerhub"
+        }
+      }
+    }
+  ],
+  "software_templates": []
 }

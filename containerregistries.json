@@ -1,13 +1,13 @@
 [
-  {
-    "title": "DockerHub",
-    "subtitle": "Container Registry",
-    "description": "Description placeholder, not to exceed 255 characters",
-    "image": "https://icongr.am/devicon/docker-original.svg?size=75&color=currentColor",
-    "_links": {
-        "self": {
-          "href": "http://localhost:3000/technologies/dockerhub"
-        }
+    {
+        "title": "DockerHub",
+        "subtitle": "Container Registry",
+        "description": "Description placeholder, not to exceed 255 characters",
+        "image": "https://icongr.am/devicon/docker-original.svg?size=75&color=currentColor",
+        "_links": {
+            "self": {
+              "href": "http://localhost:3000/technologies/dockerhub"
+            }
+          }
       }
-  }
 ]

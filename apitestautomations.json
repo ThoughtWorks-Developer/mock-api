@@ -2,7 +2,7 @@
   {
     "title": "API Fortress",
     "subtitle": "API Test Automation",
-    "image": "https://icongr.am/simple/apifortress.svg",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/apifortress.png",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -13,7 +13,7 @@
   {
     "title": "Ready API",
     "subtitle": "API Test Automation",
-    "image": "https://icongr.am/devicon/gradle-plain.svg",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/readyapi.jpg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -24,7 +24,7 @@
   {
     "title": "Postman",
     "subtitle": "API Test Automation",
-    "image": "https://icongr.am/devicon/postman.svg",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/postman.png",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {

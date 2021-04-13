@@ -25,7 +25,7 @@
       "title": "Bitbucket",
       "subtitle": "Version Control",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://icongr.am/devicon/bitbucket-original.svg",
+      "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
       "_links": {
          "self": {
             "href": "http://localhost:3000/technologies/bitbucket"

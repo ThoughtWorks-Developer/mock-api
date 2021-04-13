@@ -2,7 +2,7 @@
   {
     "title": "GitHub Actions",
     "subtitle": "CI System",
-    "image": "https://icongr.am/devicon/github.svg",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/githubactions.png",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -46,7 +46,7 @@
   {
     "title": "Travis CI",
     "subtitle": "CI System",
-    "image": "https://icongr.am/devicon/travisci-original.svg",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -62,6 +62,17 @@
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/codeship"
+      }
+    }
+  },
+  {
+    "title": "TeamCity",
+    "subtitle": "CI System",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1516571041/teamcity.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/teamcity"
       }
     }
   }

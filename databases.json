@@ -4,9 +4,7 @@
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/redis-original.svg",
-    "versions": [
-      "4.0.6"
-    ],
+    "versions": ["4.0.6"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/redis"
@@ -14,14 +12,23 @@
     }
   },
   {
+    "title": "Memcached",
+    "subtitle": "NoSQL Database",
+    "description": "Free & open source, high-performance, distributed memory object caching system,",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344165/memcached.svg",
+    "version": ["1.6.9"],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/memcached"
+      }
+    }
+  },
+  {
     "title": "Elastic Search",
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604334468/lowcoderr/catalog/items/elasticsearch.svg",
-    "versions": [
-      "5.2",
-      "6.1"
-    ],
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/lowcoderr/catalog/items/elasticsearch.svg",
+    "versions": ["5.2", "6.1"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/elasticsearch"
@@ -33,11 +40,7 @@
     "subtitle": "NoSQL Database",
     "description": "The open-source database for the realtime web",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
-    "versions": [
-      "2.3.4",
-      "2.3.5",
-      "2.3.6"
-    ],
+    "versions": ["2.3.4", "2.3.5", "2.3.6"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/rethinkdb"
@@ -49,10 +52,7 @@
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/neo4j.svg?color=008CC1",
-    "versions": [
-      "3.2.6",
-      "3.3.3"
-    ],
+    "versions": ["3.2.6", "3.3.3"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/neo4j"
@@ -64,10 +64,7 @@
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/mysql-original-wordmark.svg",
-    "versions": [
-      "5.6",
-      "5.7"
-    ],
+    "versions": ["5.6", "5.7"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/mysql"
@@ -79,11 +76,7 @@
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
-    "versions": [
-      "15.0",
-      "14.0",
-      "13.0"
-    ],
+    "versions": ["15.0", "14.0", "13.0"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/sqlserver"
@@ -95,11 +88,7 @@
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/mongodb-original.svg",
-    "versions": [
-      "3.0",
-      "3.4",
-      "3.6"
-    ],
+    "versions": ["3.0", "3.4", "3.6"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/mongodb"
@@ -111,11 +100,7 @@
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
-    "versions": [
-      "10.1",
-      "10.2",
-      "10.3"
-    ],
+    "versions": ["10.1", "10.2", "10.3"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/mariadb"
@@ -127,10 +112,7 @@
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/postgresql-original.svg",
-    "versions": [
-      "9.6.6",
-      "10.1"
-    ],
+    "versions": ["9.6.6", "10.1"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/postgresql"
@@ -142,9 +124,7 @@
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/simple/cassandra.svg?color=1287B1",
-    "versions": [
-      "3.11.1"
-    ],
+    "versions": ["3.11.1"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/cassandra"
@@ -155,10 +135,7 @@
     "title": "CouchDB",
     "description": "Description placeholder, not to exceed 255 characters",
     "image": "https://icongr.am/devicon/couchdb-original.svg",
-    "versions": [
-      "1.7.1",
-      "2.1.1"
-    ],
+    "versions": ["1.7.1", "2.1.1"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/couchdb"
