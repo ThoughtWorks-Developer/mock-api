@@ -2,7 +2,7 @@
   {
     "title": "GitHub Actions",
     "subtitle": "CI System",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/githubactions.png",
+    "image": "https://icongr.am/simple/githubactions.svg?colored=true",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -24,7 +24,7 @@
   {
     "title": "Circle CI",
     "subtitle": "CI System",
-    "image": "https://icongr.am/devicon/circleci-original.svg",
+    "image": "https://icongr.am/simple/circleci.svg?colored=true",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {

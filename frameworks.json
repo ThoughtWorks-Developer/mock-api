@@ -1,16 +1,17 @@
 [
   {
-    "title": ".NET Core",
+    "title": ".NET",
     "subtitle": "Framework",
     "description": ".NET Core is a cross-platform version of .NET for building websites, services, and console apps",
     "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604417476/lowcoderr/catalog/items/dot-net-core.svg",
     "versions": [
-      "2.0",
-      "3.1"
+      "5.0",
+      "3.1",
+      "3.0"
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/dotnetcore"
+        "href": "http://localhost:3000/technologies/dotnet"
       }
     }
   },

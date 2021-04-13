@@ -84,6 +84,17 @@
     }
   },
   {
+    "title": "Azure Cosmos DB",
+    "subtitle": "NoSQL Database",
+    "description": "Managed NoSQL database for modern app development",
+    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/cosmosdb"
+      }
+    }
+  },
+  {
     "title": "MongoDB",
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
