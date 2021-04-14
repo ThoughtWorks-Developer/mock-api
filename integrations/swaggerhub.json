@@ -1,0 +1,11 @@
+{
+  "title": "SwaggerHub",
+  "subtitle": "API Description",
+  "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+  "description": "Description placeholder, not to exceed 255 characters",
+  "_links": {
+    "self": {
+      "href": "http://localhost:3000/integrations/swaggerhub"
+    }
+  }
+}

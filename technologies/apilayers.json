@@ -13,7 +13,7 @@
   {
     "title": "Process API",
     "subtitle": "API Layer",
-    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/systemapi.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/processapi.svg",
     "description": "Agility, Orchestration, Composable APIs",
     "_links": {
       "self": {

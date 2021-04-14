@@ -1,4 +1,41 @@
 {
+  "software_templates": [
+    [
+      {
+        "name": "java-springboot-mongodb-rabbitmq",
+        "title": "Building REST API with Spring Web and MongoDB"
+      },
+      {
+        "name": "java-springboot-postgresql-rabbitmq",
+        "title": "Building REST API with Spring Web and PostgreSQL"
+      }
+    ]
+    
+  ],
+  "integrations": [
+    {
+      "title": "Stoplight",
+      "subtitle": "API Description",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/integrations/stoplight"
+        }
+      }
+    },
+    {
+      "title": "SwaggerHub",
+      "subtitle": "API Description",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/integrations/swaggerhub"
+        }
+      }
+    }
+  ],
   "technologies": [
     {
       "title": "Swagger",
@@ -74,7 +111,7 @@
     {
       "title": "Process API",
       "subtitle": "API Layer",
-      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/systemapi.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/processapi.svg",
       "description": "Agility, Orchestration, Composable APIs",
       "_links": {
         "self": {
