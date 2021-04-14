@@ -7,6 +7,8 @@
 jq -n '{ technologies: [ inputs ] | add }' technologies/*.json > technologies.json
 ```
 
+jq -n '{ integrations: [ .[][] ] | add }' integrations/*.json > integrations.json
+
 ### Combine Integrations data
 
 ```
