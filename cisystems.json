@@ -46,7 +46,7 @@
   {
     "title": "Travis CI",
     "subtitle": "CI System",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/travisci.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -59,6 +59,9 @@
     "subtitle": "CI System",
     "image": "https://icongr.am/simple/codeship.svg?colored=true",
     "description": "Description placeholder, not to exceed 255 characters",
+    "tags": [
+      "hosted"
+    ],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/codeship"
@@ -66,10 +69,35 @@
     }
   },
   {
-    "title": "TeamCity",
+    "title": "Codefresh",
     "subtitle": "CI System",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1516571041/teamcity.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+    "description": "CI/CD Platform built on Kubernetes. Comes with complete GitOps support",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/codefresh"
+      }
+    }
+  },
+  {
+    "title": "TeamCity Cloud",
+    "subtitle": "CI System",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/teamcity.svg",
     "description": "Description placeholder, not to exceedn 255 characters",
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/technologies/teamcity"
+      }
+    }
+  },
+  {
+    "title": "GoCD",
+    "subtitle": "CI System",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+    "description": "Description placeholder, not to exceedn 255 characters",
+    "tags": [
+      "open-source"
+    ],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/teamcity"

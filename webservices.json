@@ -2,7 +2,7 @@
   {
     "title": "REST",
     "subtitle": "Web Service",
-    "image": "https://.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -13,7 +13,7 @@
   {
     "title": "SOAP",
     "subtitle": "Web Service",
-    "image": "https://.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -24,7 +24,7 @@
   {
     "title": "GraphQL",
     "subtitle": "Web Service",
-    "image": "https://.svg",
+    "image": "https://icongr.am/simple/graphql.svg?colored=true",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -35,7 +35,7 @@
   {
     "title": "Feed",
     "subtitle": "Web Service",
-    "image": "https://.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
@@ -46,7 +46,7 @@
   {
     "title": "GRPC",
     "subtitle": "Web Service",
-    "image": "https://.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {

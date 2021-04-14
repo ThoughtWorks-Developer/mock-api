@@ -15,7 +15,7 @@
     "title": "Memcached",
     "subtitle": "NoSQL Database",
     "description": "Free & open source, high-performance, distributed memory object caching system,",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344165/memcached.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/memcached.svg",
     "version": ["1.6.9"],
     "_links": {
       "self": {
@@ -27,23 +27,11 @@
     "title": "Elastic Search",
     "subtitle": "NoSQL Database",
     "description": "Description placeholder, not to exceed 255 characters",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/lowcoderr/catalog/items/elasticsearch.svg",
+    "image": "https://icongr.am/simple/elasticsearch.svg?colored=true",
     "versions": ["5.2", "6.1"],
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/elasticsearch"
-      }
-    }
-  },
-  {
-    "title": "RethinkDB",
-    "subtitle": "NoSQL Database",
-    "description": "The open-source database for the realtime web",
-    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
-    "versions": ["2.3.4", "2.3.5", "2.3.6"],
-    "_links": {
-      "self": {
-        "href": "http://localhost:3000/technologies/rethinkdb"
       }
     }
   },
@@ -75,7 +63,7 @@
     "title": "SQL Server",
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/sqlserver.svg",
     "versions": ["15.0", "14.0", "13.0"],
     "_links": {
       "self": {
@@ -87,7 +75,7 @@
     "title": "Azure Cosmos DB",
     "subtitle": "NoSQL Database",
     "description": "Managed NoSQL database for modern app development",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "_links": {
       "self": {
         "href": "http://localhost:3000/technologies/cosmosdb"
@@ -110,7 +98,7 @@
     "title": "MariaDB",
     "subtitle": "Relational Database",
     "description": "Description placeholder, not to exceed 255 characters",
-    "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/mariadb.svg",
     "versions": ["10.1", "10.2", "10.3"],
     "_links": {
       "self": {

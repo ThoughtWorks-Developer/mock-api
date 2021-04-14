@@ -52,7 +52,7 @@
     "title": "Kotlin",
     "subtitle": "Language",
     "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
-    "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344149/kotlin.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/kotlin.svg",
     "versions": [
       "1.2.30"
     ],
@@ -63,7 +63,7 @@
     }
   },
   {
-    "title": "Go",
+    "title": "Golang",
     "subtitle": "Language",
     "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
     "image": "https://icongr.am/devicon/go-original.svg",

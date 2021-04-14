@@ -2,7 +2,7 @@
     {
       "title": "SonarQube",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/sonarqube.svg",
+      "image": "https://icongr.am/simple/sonarqube.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -13,7 +13,7 @@
     {
       "title": "Codacy",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/codacy.svg",
+      "image": "https://icongr.am/simple/codacy.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -22,20 +22,9 @@
       }
     },
     {
-      "title": "Coverity",
-      "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/coverity.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/technologies/coverity"
-        }
-      }
-    },
-    {
         "title": "Veracode",
         "subtitle": "Code Analysis",
-        "image": "https://icongr.am/devicon/veracode.svg",
+        "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
         "description": "Description placeholder, not to exceed 255 characters",
         "_links": {
           "self": {

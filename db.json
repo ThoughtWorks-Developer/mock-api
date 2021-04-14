@@ -1,9 +1,24 @@
 {
   "technologies": [
     {
+      "title": "Swagger",
+      "subtitle": "API Description",
+      "image": "https://icongr.am/simple/swagger.svg?colored=true",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "versions": [
+        "2.0",
+        "1.0"
+      ],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/swagger"
+        }
+      }
+    },
+    {
       "title": "OpenAPI",
       "subtitle": "API Description",
-      "image": "https://.svg",
+      "image": "https://icongr.am/simple/openapiinitiative.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "versions": [
         "3.0",
@@ -18,11 +33,11 @@
     {
       "title": "API Blueprint",
       "subtitle": "API Description",
-      "image": "https://.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/apiblueprint2.svg",
+      "description": "A powerful high-level API design language for web APIs.",
       "versions": [
-        "3.0",
-        "3.1"
+        "Format 1A9",
+        "Format 1A8"
       ],
       "_links": {
         "self": {
@@ -33,11 +48,11 @@
     {
       "title": "RAML",
       "subtitle": "API Description",
-      "image": "https://res.cloudinary.com/tw-developer/image/upload/v1618330715/assets/Icons/raml.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/raml.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "versions": [
-        "3.0",
-        "3.1"
+        "1.0",
+        "0.8"
       ],
       "_links": {
         "self": {
@@ -48,8 +63,8 @@
     {
       "title": "System API",
       "subtitle": "API Layer",
-      "image": "https://.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/systemapi.svg",
+      "description": "Legacy Modernization, SaaS App Connectivity, Web Services & RESTful APIs",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/systerapi"
@@ -59,8 +74,8 @@
     {
       "title": "Process API",
       "subtitle": "API Layer",
-      "image": "https://.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/systemapi.svg",
+      "description": "Agility, Orchestration, Composable APIs",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/processapi"
@@ -70,8 +85,8 @@
     {
       "title": "Experience API",
       "subtitle": "API Layer",
-      "image": "https://.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/systemapi.svg",
+      "description": "Purposeful APIs targeting consumer audience",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/experienceapi"
@@ -81,7 +96,7 @@
     {
       "title": "API Fortress",
       "subtitle": "API Test Automation",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/apifortress.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -92,7 +107,7 @@
     {
       "title": "Ready API",
       "subtitle": "API Test Automation",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/readyapi.jpg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -103,7 +118,7 @@
     {
       "title": "Postman",
       "subtitle": "API Test Automation",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/postman.png",
+      "image": "https://icongr.am/simple/postman.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -114,7 +129,7 @@
     {
       "title": "Maven",
       "subtitle": "Build Tool",
-      "image": "https://icongr.am/simple/apache.svg",
+      "image": "https://icongr.am/simple/apachemaven.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "versions": [
         "3.8.1",
@@ -130,12 +145,12 @@
     {
       "title": "Gradle",
       "subtitle": "Build Tool",
-      "image": "https://icongr.am/devicon/gradle-plain.svg",
+      "image": "https://icongr.am/simple/gradle.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "versions": [
         "7.0",
-        "6.8.3",
-        "6.6.1"
+        "6.8",
+        "5.6"
       ],
       "_links": {
         "self": {
@@ -160,14 +175,14 @@
       }
     },
     {
-      "title": "NuGet",
+      "title": "PyBuilder",
       "subtitle": "Build Tool",
-      "image": "https://icongr.am/simple/nuget.svg?colored=true",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "versions": [
-        "7.0",
-        "6.8.3",
-        "6.6.1"
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/pybuilder.svg",
+      "description": "PyBuilder is a software build automation tool written in pure Python mainly targeting Python ecosystem",
+      "version": [
+        "0.12",
+        "0.11",
+        "0.10"
       ],
       "_links": {
         "self": {
@@ -222,7 +237,7 @@
     {
       "title": "Travis CI",
       "subtitle": "CI System",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/travisci.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/travisci.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -235,6 +250,9 @@
       "subtitle": "CI System",
       "image": "https://icongr.am/simple/codeship.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
+      "tags": [
+        "hosted"
+      ],
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/codeship"
@@ -242,10 +260,35 @@
       }
     },
     {
-      "title": "TeamCity",
+      "title": "Codefresh",
       "subtitle": "CI System",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1516571041/teamcity.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+      "description": "CI/CD Platform built on Kubernetes. Comes with complete GitOps support",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/codefresh"
+        }
+      }
+    },
+    {
+      "title": "TeamCity Cloud",
+      "subtitle": "CI System",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/teamcity.svg",
       "description": "Description placeholder, not to exceedn 255 characters",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/teamcity"
+        }
+      }
+    },
+    {
+      "title": "GoCD",
+      "subtitle": "CI System",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+      "description": "Description placeholder, not to exceedn 255 characters",
+      "tags": [
+        "open-source"
+      ],
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/teamcity"
@@ -255,7 +298,7 @@
     {
       "title": "SonarQube",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/sonarqube.svg",
+      "image": "https://icongr.am/simple/sonarqube.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -266,7 +309,7 @@
     {
       "title": "Codacy",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/codacy.svg",
+      "image": "https://icongr.am/simple/codacy.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -275,24 +318,24 @@
       }
     },
     {
-      "title": "Coverity",
-      "subtitle": "Code Analysis",
-      "image": "https://icongr.am/simple/coverity.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/technologies/coverity"
-        }
-      }
-    },
-    {
       "title": "Veracode",
       "subtitle": "Code Analysis",
-      "image": "https://icongr.am/devicon/veracode.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/veracode"
+        }
+      }
+    },
+    {
+      "title": "Slack",
+      "subtitle": "Communication",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/slack.svg",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/slack"
         }
       }
     },
@@ -325,7 +368,7 @@
       "title": "Memcached",
       "subtitle": "NoSQL Database",
       "description": "Free & open source, high-performance, distributed memory object caching system,",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344165/memcached.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/memcached.svg",
       "version": [
         "1.6.9"
       ],
@@ -339,7 +382,7 @@
       "title": "Elastic Search",
       "subtitle": "NoSQL Database",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/lowcoderr/catalog/items/elasticsearch.svg",
+      "image": "https://icongr.am/simple/elasticsearch.svg?colored=true",
       "versions": [
         "5.2",
         "6.1"
@@ -347,22 +390,6 @@
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/elasticsearch"
-        }
-      }
-    },
-    {
-      "title": "RethinkDB",
-      "subtitle": "NoSQL Database",
-      "description": "The open-source database for the realtime web",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/rethinkdb.svg",
-      "versions": [
-        "2.3.4",
-        "2.3.5",
-        "2.3.6"
-      ],
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/technologies/rethinkdb"
         }
       }
     },
@@ -400,7 +427,7 @@
       "title": "SQL Server",
       "subtitle": "Relational Database",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/sqlserver.svg",
       "versions": [
         "15.0",
         "14.0",
@@ -416,7 +443,7 @@
       "title": "Azure Cosmos DB",
       "subtitle": "NoSQL Database",
       "description": "Managed NoSQL database for modern app development",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604441082/lowcoderr/catalog/items/sqlserver.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/cosmosdb"
@@ -443,7 +470,7 @@
       "title": "MariaDB",
       "subtitle": "Relational Database",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/mariadb.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/mariadb.svg",
       "versions": [
         "10.1",
         "10.2",
@@ -502,7 +529,7 @@
       "title": ".NET",
       "subtitle": "Framework",
       "description": ".NET Core is a cross-platform version of .NET for building websites, services, and console apps",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1604417476/lowcoderr/catalog/items/dot-net-core.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/dotnet-core.svg",
       "versions": [
         "5.0",
         "3.1",
@@ -532,7 +559,7 @@
       "title": "DropWizard",
       "subtitle": "Framework",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/dropwizard.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "0.0"
       ],
@@ -546,7 +573,7 @@
       "title": "Spring Boot",
       "subtitle": "Framework",
       "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/springboot.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "1.5.4.RELEASE",
         "1.5.9.RELEASE",
@@ -562,7 +589,7 @@
       "title": "VERT.X",
       "subtitle": "Framework",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/vertx.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "3.5.0"
       ],
@@ -576,7 +603,7 @@
       "title": "Nameko",
       "subtitle": "Framework",
       "description": "A microservice framework for Python",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/nameko.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "2.13.0"
       ],
@@ -590,7 +617,7 @@
       "title": "Express",
       "subtitle": "Framework",
       "description": "Fast, unopinionated, minimalist web framework for Node.js",
-      "image": "https://icongr.am/devicon/express-original.svg?size=128&color=currentColor&colored=true",
+      "image": "https://icongr.am/devicon/express-original.svg?color=currentColor",
       "versions": [
         "4.17.1"
       ],
@@ -618,24 +645,10 @@
       }
     },
     {
-      "title": "Falcon",
-      "subtitle": "Framework",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/falcon.svg",
-      "versions": [
-        "1.4.0b2"
-      ],
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/technologies/falcon"
-        }
-      }
-    },
-    {
       "title": "LoopBack",
       "subtitle": "Framework",
       "description": "A highly extensible Node.js framework for building APIs and microservices",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/loopback1.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "3",
         "4"
@@ -664,7 +677,7 @@
       "title": "hapi",
       "subtitle": "Framework",
       "description": "Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/hapi_transparent.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "v17"
       ],
@@ -678,7 +691,7 @@
       "title": "restify",
       "subtitle": "Framework",
       "description": "The future of Node.js REST development",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/restify.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/v1618423029/assets/icons/restify.svg",
       "versions": [
         "v7.0.0"
       ],
@@ -692,7 +705,7 @@
       "title": "Senaca",
       "subtitle": "Framework",
       "description": "A microservice toolkit for Node.js",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/seneca.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/icons/seneca.svg",
       "versions": [
         "3.22.0"
       ],
@@ -706,7 +719,7 @@
       "title": "Beego",
       "subtitle": "Framework",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/beego.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "0.0"
       ],
@@ -720,7 +733,7 @@
       "title": "Gin",
       "subtitle": "Framework",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gin.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "0.0"
       ],
@@ -734,7 +747,7 @@
       "title": "Gizmo",
       "subtitle": "Framework",
       "description": "Gizmo helps developers quickly configure and build microservice APIs and pubsub daemons",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gizmo.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "0.0"
       ],
@@ -748,7 +761,7 @@
       "title": "Go kit",
       "subtitle": "Framework",
       "description": "A programming toolkit for microservices",
-      "image": "http://res.cloudinary.com/dzmrr9uj9/image/upload/gokit.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "v0.10.0"
       ],
@@ -811,7 +824,7 @@
       "title": "Kotlin",
       "subtitle": "Language",
       "description": "Write easy-to-maintain lean and clean code with Kotlin for developing better microswervices",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/v1514344149/kotlin.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/kotlin.svg",
       "versions": [
         "1.2.30"
       ],
@@ -822,7 +835,7 @@
       }
     },
     {
-      "title": "Go",
+      "title": "Golang",
       "subtitle": "Language",
       "description": "Go is an open source programming language that makes it easy to build simple, reliable, and efficient software",
       "image": "https://icongr.am/devicon/go-original.svg",
@@ -916,7 +929,7 @@
       "title": "NATS",
       "subtitle": "Messaging",
       "description": "NATS.io is a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/nats.png",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "versions": [
         "2.2",
         "2.0"
@@ -931,7 +944,7 @@
       "title": "GitHub Package",
       "subtitle": "Package Manager",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/github-package.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/github-package.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/github-package"
@@ -939,10 +952,37 @@
       }
     },
     {
+      "title": "NuGet",
+      "subtitle": "Package Manager",
+      "image": "https://icongr.am/simple/nuget.svg?colored=true",
+      "description": "Package manager for .NET apps",
+      "versions": [
+        "7.0",
+        "6.8.3",
+        "6.6.1"
+      ],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/nuget"
+        }
+      }
+    },
+    {
       "title": "npm",
-      "subtitle": "Container Registry",
-      "description": "Description placeholder, not to exceed 255 characters",
+      "subtitle": "Package Manager",
+      "description": "Package manager for Javascript runtime environment",
       "image": "https://icongr.am/simple/npm.svg?size=75&color=currentColor&colored=true",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/technologies/dockerhub"
+        }
+      }
+    },
+    {
+      "title": "Go.dev",
+      "subtitle": "Package Manager",
+      "description": "Centralized information for Go packages and modules",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/dockerhub"
@@ -953,7 +993,7 @@
       "title": "Vault",
       "subtitle": "Secret Management",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://icongr.am/devicon/github-original.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/vault"
@@ -961,24 +1001,24 @@
       }
     },
     {
-      "title": "Azure Key Vault",
+      "title": "Conjur",
       "subtitle": "Secret Management",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://icongr.am/devicon/gitlab-original.svg",
+      "description": "Open source interface to securely authenticate, control and audit non-human access across tools, applications, containers and cloud environment",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/azurekey"
+          "href": "http://localhost:3000/technologies/conjur"
         }
       }
     },
     {
-      "title": "CredentialHub",
+      "title": "SecretHub",
       "subtitle": "Secret Management",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/bitbucket"
+          "href": "http://localhost:3000/technologies/secrethub"
         }
       }
     },
@@ -1030,7 +1070,7 @@
       "title": "Undertow",
       "subtitle": "Web Server",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/lowcoderr/catalog/items/undertow.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/undertow.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/undertow"
@@ -1041,7 +1081,7 @@
       "title": "Jetty",
       "subtitle": "Web Server",
       "description": "Description placeholder, not to exceed 255 characters",
-      "image": "https://res.cloudinary.com/dzmrr9uj9/image/upload/jetty.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/jetty.svg",
       "_links": {
         "self": {
           "href": "http://localhost:3000/technologies/jetty"
@@ -1051,7 +1091,7 @@
     {
       "title": "REST",
       "subtitle": "Web Service",
-      "image": "https://.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -1062,7 +1102,7 @@
     {
       "title": "SOAP",
       "subtitle": "Web Service",
-      "image": "https://.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -1073,7 +1113,7 @@
     {
       "title": "GraphQL",
       "subtitle": "Web Service",
-      "image": "https://.svg",
+      "image": "https://icongr.am/simple/graphql.svg?colored=true",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -1084,7 +1124,7 @@
     {
       "title": "Feed",
       "subtitle": "Web Service",
-      "image": "https://.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
@@ -1095,7 +1135,7 @@
     {
       "title": "GRPC",
       "subtitle": "Web Service",
-      "image": "https://.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
