@@ -10,7 +10,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/swagger"
+        "href": "http://localhost:3000/api/technologies/swagger"
       }
     }
   },
@@ -25,7 +25,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/openapi"
+        "href": "http://localhost:3000/api/technologies/openapi"
       }
     }
   },
@@ -40,7 +40,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/apiblueprint"
+        "href": "http://localhost:3000/api/technologies/apiblueprint"
       }
     }
   },
@@ -55,7 +55,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/raml"
+        "href": "http://localhost:3000/api/technologies/raml"
       }
     }
   }

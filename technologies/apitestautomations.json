@@ -6,7 +6,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/apifortress"
+        "href": "http://localhost:3000/api/technologies/apifortress"
       }
     }
   },
@@ -17,7 +17,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/readyapi"
+        "href": "http://localhost:3000/api/technologies/readyapi"
       }
     }
   },
@@ -28,7 +28,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/postman"
+        "href": "http://localhost:3000/api/technologies/postman"
       }
     }
   }

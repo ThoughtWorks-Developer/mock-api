@@ -6,7 +6,7 @@
     "description": "Legacy Modernization, SaaS App Connectivity, Web Services & RESTful APIs",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/systerapi"
+        "href": "http://localhost:3000/api/technologies/systerapi"
       }
     }
   },
@@ -17,7 +17,7 @@
     "description": "Agility, Orchestration, Composable APIs",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/processapi"
+        "href": "http://localhost:3000/api/technologies/processapi"
       }
     }
   },
@@ -28,7 +28,7 @@
     "description": "Purposeful APIs targeting consumer audience",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/experienceapi"
+        "href": "http://localhost:3000/api/technologies/experienceapi"
       }
     }
   }

@@ -5,13 +5,26 @@
     "description": "Build efficient and lightweight microservices in Python",
     "image": "https://icongr.am/devicon/python-original.svg",
     "versions": [
-      "2.7",
-      "3.5",
-      "3.6"
+      "3.9.4",
+      "3.8.9"
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/python"
+        "href": "http://localhost:3000/api/technologies/python"
+      }
+    }
+  },
+  {
+    "title": "PHP",
+    "subtitle": "Language",
+    "description": "Description placeholder, not to exceed 255 characters",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/v1618472076/assets/Icons/php-1.svg",
+    "versions": [
+      "8.0.2"
+    ],
+    "_links": {
+      "self": {
+        "href": "http://localhost:3000/api/technologies/php"
       }
     }
   },
@@ -27,7 +40,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/node"
+        "href": "http://localhost:3000/api/technologies/node"
       }
     }
   },
@@ -44,7 +57,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/java"
+        "href": "http://localhost:3000/api/technologies/java"
       }
     }
   },
@@ -58,7 +71,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/kotlin"
+        "href": "http://localhost:3000/api/technologies/kotlin"
       }
     }
   },
@@ -72,7 +85,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/golang"
+        "href": "http://localhost:3000/api/technologies/golang"
       }
     }
   },
@@ -87,7 +100,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/csharp"
+        "href": "http://localhost:3000/api/technologies/csharp"
       }
     }
   },
@@ -103,7 +116,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/swift"
+        "href": "http://localhost:3000/api/technologies/swift"
       }
     }
   },
@@ -118,7 +131,7 @@
         ],
       "_links": {
           "self": {
-              "href": "http://localhost:3000/technologies/ruby"
+              "href": "http://localhost:3000/api/technologies/ruby"
           }
       }
   }

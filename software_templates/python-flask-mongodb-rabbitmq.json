@@ -1,6 +1,6 @@
 {
-    "name": "java-springboot-postgresql-rabbitmq",
-    "title": "Building REST API with Spring Web and PostgreSQL",
+    "name": "python-flask-mongodb-rabbitmq",
+    "title": "Developing APIs with Python and Flask",
     "type": "webservice",
     "tech_stack": {
         "architecture": {
@@ -23,23 +23,23 @@
         },
         "development": {
             "language": { 
-                "name": "java",
-                "version": "",
+                "name": "python",
+                "version": "3.9.4",
                 "featured": true
             },
             "framework": { 
-                "name": "springboot",
-                "version": "",
+                "name": "flask",
+                "version": "1.1.2",
                 "featured": true
             },
             "database": { 
-                "name": "postgresql",
-                "version": "",
+                "name": "mongodb",
+                "version": "3.6",
                 "featured": true
             },
             "messaging": {
                 "name": "rabbitmq",
-                "version": ""
+                "version": "3.7.6"
             }
         },
         "cicd": {
@@ -50,15 +50,15 @@
                 "name": "travisci"
             },
             "build_tool": {
-                "name": "",
-                "version": ""
+                "name": "pyb",
+                "version": "0.12"
             },
             "code_quality": {
                 "name": "",
                 "version": ""
             },
             "test_automation": {
-                "name": "",
+                "name": "postman",
                 "version": ""
             },
             "container_registery": {
@@ -73,7 +73,7 @@
     "published": "",
     "_links": {
         "self": {
-            "href": "https://localhost:3000/api/software_templates/d620cd55-86ed-433d-b488-6c3a40c1140f"
+            "href": "https://localhost:3000/api/software_templates/6e13400a-74ac-4e63-b554-71c733d69935"
         }
     }
 }

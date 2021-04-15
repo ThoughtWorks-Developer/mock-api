@@ -6,7 +6,7 @@
     "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/github-package.svg",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/github-package"
+        "href": "http://localhost:3000/api/technologies/github-package"
       }
     }
   },
@@ -18,7 +18,7 @@
     "versions": ["7.0", "6.8.3", "6.6.1"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/nuget"
+        "href": "http://localhost:3000/api/technologies/nuget"
       }
     }
   },
@@ -29,7 +29,7 @@
     "image": "https://icongr.am/simple/npm.svg?size=75&color=currentColor&colored=true",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/dockerhub"
+        "href": "http://localhost:3000/api/technologies/dockerhub"
       }
     }
   },
@@ -40,7 +40,7 @@
     "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/dockerhub"
+        "href": "http://localhost:3000/api/technologies/dockerhub"
       }
     }
   }

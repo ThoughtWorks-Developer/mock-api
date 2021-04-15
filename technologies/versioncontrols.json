@@ -6,7 +6,7 @@
       "image": "https://icongr.am/devicon/github-original.svg",
       "_links": {
          "self": {
-            "href": "http://localhost:3000/technologies/github"
+            "href": "http://localhost:3000/api/technologies/github"
          }
       }
    },
@@ -17,7 +17,7 @@
       "image": "https://icongr.am/devicon/gitlab-original.svg",
       "_links": {
          "self": {
-            "href": "http://localhost:3000/technologies/gitlab"
+            "href": "http://localhost:3000/api/technologies/gitlab"
          }
       }
    },
@@ -28,7 +28,7 @@
       "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
       "_links": {
          "self": {
-            "href": "http://localhost:3000/technologies/bitbucket"
+            "href": "http://localhost:3000/api/technologies/bitbucket"
          }
       }
    }

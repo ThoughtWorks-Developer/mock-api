@@ -7,7 +7,7 @@
     "versions": ["4.0.6"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/redis"
+        "href": "http://localhost:3000/api/technologies/redis"
       }
     }
   },
@@ -19,7 +19,7 @@
     "version": ["1.6.9"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/memcached"
+        "href": "http://localhost:3000/api/technologies/memcached"
       }
     }
   },
@@ -31,7 +31,7 @@
     "versions": ["5.2", "6.1"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/elasticsearch"
+        "href": "http://localhost:3000/api/technologies/elasticsearch"
       }
     }
   },
@@ -43,7 +43,7 @@
     "versions": ["3.2.6", "3.3.3"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/neo4j"
+        "href": "http://localhost:3000/api/technologies/neo4j"
       }
     }
   },
@@ -55,7 +55,7 @@
     "versions": ["5.6", "5.7"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/mysql"
+        "href": "http://localhost:3000/api/technologies/mysql"
       }
     }
   },
@@ -67,7 +67,7 @@
     "versions": ["15.0", "14.0", "13.0"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/sqlserver"
+        "href": "http://localhost:3000/api/technologies/sqlserver"
       }
     }
   },
@@ -78,7 +78,7 @@
     "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/cosmosdb"
+        "href": "http://localhost:3000/api/technologies/cosmosdb"
       }
     }
   },
@@ -90,7 +90,7 @@
     "versions": ["3.0", "3.4", "3.6"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/mongodb"
+        "href": "http://localhost:3000/api/technologies/mongodb"
       }
     }
   },
@@ -102,7 +102,7 @@
     "versions": ["10.1", "10.2", "10.3"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/mariadb"
+        "href": "http://localhost:3000/api/technologies/mariadb"
       }
     }
   },
@@ -114,7 +114,7 @@
     "versions": ["9.6.6", "10.1"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/postgresql"
+        "href": "http://localhost:3000/api/technologies/postgresql"
       }
     }
   },
@@ -126,7 +126,7 @@
     "versions": ["3.11.1"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/cassandra"
+        "href": "http://localhost:3000/api/technologies/cassandra"
       }
     }
   },
@@ -137,7 +137,7 @@
     "versions": ["1.7.1", "2.1.1"],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/couchdb"
+        "href": "http://localhost:3000/api/technologies/couchdb"
       }
     }
   }

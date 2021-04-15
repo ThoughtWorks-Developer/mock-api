@@ -6,7 +6,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/githubactions"
+        "href": "http://localhost:3000/api/technologies/githubactions"
       }
     }
   },
@@ -17,7 +17,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/azurepipelines"
+        "href": "http://localhost:3000/api/technologies/azurepipelines"
       }
     }
   },
@@ -28,7 +28,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/circleci"
+        "href": "http://localhost:3000/api/technologies/circleci"
       }
     }
   },
@@ -39,7 +39,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/gitlabci"
+        "href": "http://localhost:3000/api/technologies/gitlabci"
       }
     }
   },
@@ -50,7 +50,7 @@
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/travisci"
+        "href": "http://localhost:3000/api/technologies/travisci"
       }
     }
   },
@@ -64,7 +64,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/codeship"
+        "href": "http://localhost:3000/api/technologies/codeship"
       }
     }
   },
@@ -75,7 +75,7 @@
     "description": "CI/CD Platform built on Kubernetes. Comes with complete GitOps support",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/codefresh"
+        "href": "http://localhost:3000/api/technologies/codefresh"
       }
     }
   },
@@ -86,7 +86,7 @@
     "description": "Description placeholder, not to exceedn 255 characters",
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/teamcity"
+        "href": "http://localhost:3000/api/technologies/teamcity"
       }
     }
   },
@@ -100,7 +100,7 @@
     ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/technologies/teamcity"
+        "href": "http://localhost:3000/api/technologies/teamcity"
       }
     }
   }

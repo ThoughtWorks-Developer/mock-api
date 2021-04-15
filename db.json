@@ -1,14 +1,314 @@
 {
   "software_templates": [
     {
-      "name": "java-springboot-mongodb-rabbitmq",
-      "title": "Building REST API with Spring Web and MongoDB"
+      "name": "csharp-net-sqlserver-rabbitmq",
+      "title": "Creating a data-driven CRUD microservice",
+      "type": "webservice",
+      "architecture": {
+        "api_interface": {
+          "name": "rest"
+        },
+        "api_layer": {
+          "name": "system"
+        },
+        "api_audience": {
+          "name": "private"
+        },
+        "api_description": {
+          "name": "openapi",
+          "version": "3.0"
+        },
+        "pattern": {
+          "name": "event-driven"
+        }
+      },
+      "development": {
+        "language": {
+          "name": "csharp",
+          "version": "",
+          "featured": true
+        },
+        "framework": {
+          "name": "dotnet",
+          "version": "",
+          "featured": true
+        },
+        "database": {
+          "name": "sqlserver",
+          "version": "",
+          "featured": true
+        },
+        "messaging": {
+          "name": "rabbitmq",
+          "version": ""
+        }
+      },
+      "cicd": {
+        "version_control": {
+          "name": "github"
+        },
+        "cisystem": {
+          "name": "travisci"
+        },
+        "build_tool": {
+          "name": "",
+          "version": ""
+        },
+        "code_quality": {
+          "name": "",
+          "version": ""
+        },
+        "test_automation": {
+          "name": "",
+          "version": ""
+        },
+        "container_registery": {
+          "name": "dockerhub"
+        },
+        "package_repository": {
+          "name": "helm"
+        }
+      },
+      "developer": "",
+      "published": "",
+      "_links": {
+        "self": {
+          "href": "https://localhost:3000/api/software_templates/e941840a-188d-4f38-aa4d-57d1436e4a08"
+        }
+      }
+    },
+    {
+      "name": "golang-gokit-cassandra-rabbitmq",
+      "title": "Building a microservice with Golang and Go-Kit",
+      "type": "webservice",
+      "architecture": {
+        "api_interface": {
+          "name": "rest"
+        },
+        "api_layer": {
+          "name": "system"
+        },
+        "api_audience": {
+          "name": "private"
+        },
+        "api_description": {
+          "name": "openapi",
+          "version": "3.0"
+        },
+        "pattern": {
+          "name": "event-driven"
+        }
+      },
+      "development": {
+        "language": {
+          "name": "golang",
+          "version": "",
+          "featured": true
+        },
+        "framework": {
+          "name": "gokit",
+          "version": "",
+          "featured": true
+        },
+        "database": {
+          "name": "cassandra",
+          "version": "",
+          "featured": true
+        },
+        "messaging": {
+          "name": "rabbitmq",
+          "version": ""
+        }
+      },
+      "cicd": {
+        "version_control": {
+          "name": "github"
+        },
+        "cisystem": {
+          "name": "travisci"
+        },
+        "build_tool": {
+          "name": "",
+          "version": ""
+        },
+        "code_quality": {
+          "name": "",
+          "version": ""
+        },
+        "test_automation": {
+          "name": "",
+          "version": ""
+        },
+        "container_registery": {
+          "name": "dockerhub"
+        },
+        "package_repository": {
+          "name": "helm"
+        }
+      },
+      "developer": "",
+      "published": "",
+      "_links": {
+        "self": {
+          "href": "https://localhost:3000/api/software_templates/84a78a01-ecb9-4312-b155-14959fc1cc07"
+        }
+      }
     },
     {
       "name": "java-springboot-postgresql-rabbitmq",
-      "title": "Building REST API with Spring Web and PostgreSQL"
+      "title": "Building REST API with Spring Web and PostgreSQL",
+      "type": "webservice",
+      "architecture": {
+        "api_interface": {
+          "name": "rest"
+        },
+        "api_layer": {
+          "name": "system"
+        },
+        "api_audience": {
+          "name": "private"
+        },
+        "api_description": {
+          "name": "openapi",
+          "version": "3.0"
+        },
+        "pattern": {
+          "name": "event-driven"
+        }
+      },
+      "development": {
+        "language": {
+          "name": "java",
+          "version": "",
+          "featured": true
+        },
+        "framework": {
+          "name": "springboot",
+          "version": "",
+          "featured": true
+        },
+        "database": {
+          "name": "postgresql",
+          "version": "",
+          "featured": true
+        },
+        "messaging": {
+          "name": "rabbitmq",
+          "version": ""
+        }
+      },
+      "cicd": {
+        "version_control": {
+          "name": "github"
+        },
+        "cisystem": {
+          "name": "travisci"
+        },
+        "build_tool": {
+          "name": "",
+          "version": ""
+        },
+        "code_quality": {
+          "name": "",
+          "version": ""
+        },
+        "test_automation": {
+          "name": "",
+          "version": ""
+        },
+        "container_registery": {
+          "name": "dockerhub"
+        },
+        "package_repository": {
+          "name": "helm"
+        }
+      },
+      "developer": "",
+      "published": "",
+      "_links": {
+        "self": {
+          "href": "https://localhost:3000/api/software_templates/d620cd55-86ed-433d-b488-6c3a40c1140f"
+        }
+      }
+    },
+    {
+      "name": "python-flask-mongodb-rabbitmq",
+      "title": "Developing APIs with Python and Flask",
+      "type": "webservice",
+      "architecture": {
+        "api_interface": {
+          "name": "rest"
+        },
+        "api_layer": {
+          "name": "system"
+        },
+        "api_audience": {
+          "name": "private"
+        },
+        "api_description": {
+          "name": "openapi",
+          "version": "3.0"
+        },
+        "pattern": {
+          "name": "event-driven"
+        }
+      },
+      "development": {
+        "language": {
+          "name": "python",
+          "version": "",
+          "featured": true
+        },
+        "framework": {
+          "name": "flask",
+          "version": "",
+          "featured": true
+        },
+        "database": {
+          "name": "mongodb",
+          "version": "",
+          "featured": true
+        },
+        "messaging": {
+          "name": "rabbitmq",
+          "version": ""
+        }
+      },
+      "cicd": {
+        "version_control": {
+          "name": "github"
+        },
+        "cisystem": {
+          "name": "travisci"
+        },
+        "build_tool": {
+          "name": "",
+          "version": ""
+        },
+        "code_quality": {
+          "name": "",
+          "version": ""
+        },
+        "test_automation": {
+          "name": "",
+          "version": ""
+        },
+        "container_registery": {
+          "name": "dockerhub"
+        },
+        "package_repository": {
+          "name": "helm"
+        }
+      },
+      "developer": "",
+      "published": "",
+      "_links": {
+        "self": {
+          "href": "https://localhost:3000/api/software_templates/6e13400a-74ac-4e63-b554-71c733d69935"
+        }
+      }
     }
-  ],
+  ],  
   "integrations": [
     {
       "title": "Stoplight",
@@ -17,7 +317,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/integrations/stoplight"
+          "href": "http://localhost:3000/api/integrations/stoplight"
         }
       }
     },
@@ -28,12 +328,26 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/integrations/swaggerhub"
+          "href": "http://localhost:3000/api/integrations/swaggerhub"
         }
       }
     }
   ],
   "technologies": [
+    {
+      "title": "Spring MVC",
+      "subtitle": "Library",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/v1618383901/assets/Icons/placeholder1.svg",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "versions": [
+        "5.3.4"
+      ],
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/api/technologies/springmvc"
+        }
+      }
+    },
     {
       "title": "Swagger",
       "subtitle": "API Description",
@@ -42,7 +356,7 @@
       "versions": ["2.0", "1.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/swagger"
+          "href": "http://localhost:3000/api/technologies/swagger"
         }
       }
     },
@@ -54,7 +368,7 @@
       "versions": ["3.0", "3.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/openapi"
+          "href": "http://localhost:3000/api/technologies/openapi"
         }
       }
     },
@@ -66,7 +380,7 @@
       "versions": ["Format 1A9", "Format 1A8"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/apiblueprint"
+          "href": "http://localhost:3000/api/technologies/apiblueprint"
         }
       }
     },
@@ -78,7 +392,7 @@
       "versions": ["1.0", "0.8"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/raml"
+          "href": "http://localhost:3000/api/technologies/raml"
         }
       }
     },
@@ -89,7 +403,7 @@
       "description": "Legacy Modernization, SaaS App Connectivity, Web Services & RESTful APIs",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/systerapi"
+          "href": "http://localhost:3000/api/technologies/systerapi"
         }
       }
     },
@@ -100,7 +414,7 @@
       "description": "Agility, Orchestration, Composable APIs",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/processapi"
+          "href": "http://localhost:3000/api/technologies/processapi"
         }
       }
     },
@@ -111,7 +425,7 @@
       "description": "Purposeful APIs targeting consumer audience",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/experienceapi"
+          "href": "http://localhost:3000/api/technologies/experienceapi"
         }
       }
     },
@@ -122,7 +436,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/apifortress"
+          "href": "http://localhost:3000/api/technologies/apifortress"
         }
       }
     },
@@ -133,7 +447,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/readyapi"
+          "href": "http://localhost:3000/api/technologies/readyapi"
         }
       }
     },
@@ -144,7 +458,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/postman"
+          "href": "http://localhost:3000/api/technologies/postman"
         }
       }
     },
@@ -156,7 +470,7 @@
       "versions": ["3.8.1", "3.5.4", "3.3.9"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/maven"
+          "href": "http://localhost:3000/api/technologies/maven"
         }
       }
     },
@@ -168,7 +482,7 @@
       "versions": ["7.0", "6.8", "5.6"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gradle"
+          "href": "http://localhost:3000/api/technologies/gradle"
         }
       }
     },
@@ -180,7 +494,7 @@
       "versions": ["7.0", "6.8.3", "6.6.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gnu"
+          "href": "http://localhost:3000/api/technologies/gnu"
         }
       }
     },
@@ -192,7 +506,7 @@
       "version": ["0.12", "0.11", "0.10"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/nuget"
+          "href": "http://localhost:3000/api/technologies/nuget"
         }
       }
     },
@@ -203,7 +517,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/githubactions"
+          "href": "http://localhost:3000/api/technologies/githubactions"
         }
       }
     },
@@ -214,7 +528,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/azurepipelines"
+          "href": "http://localhost:3000/api/technologies/azurepipelines"
         }
       }
     },
@@ -225,7 +539,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/circleci"
+          "href": "http://localhost:3000/api/technologies/circleci"
         }
       }
     },
@@ -236,7 +550,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gitlabci"
+          "href": "http://localhost:3000/api/technologies/gitlabci"
         }
       }
     },
@@ -247,7 +561,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/travisci"
+          "href": "http://localhost:3000/api/technologies/travisci"
         }
       }
     },
@@ -259,7 +573,7 @@
       "tags": ["hosted"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/codeship"
+          "href": "http://localhost:3000/api/technologies/codeship"
         }
       }
     },
@@ -270,7 +584,7 @@
       "description": "CI/CD Platform built on Kubernetes. Comes with complete GitOps support",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/codefresh"
+          "href": "http://localhost:3000/api/technologies/codefresh"
         }
       }
     },
@@ -281,19 +595,19 @@
       "description": "Description placeholder, not to exceedn 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/teamcity"
+          "href": "http://localhost:3000/api/technologies/teamcity"
         }
       }
     },
     {
       "title": "GoCD",
       "subtitle": "CI System",
-      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/gocd.svg",
       "description": "Description placeholder, not to exceedn 255 characters",
       "tags": ["open-source"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/teamcity"
+          "href": "http://localhost:3000/api/technologies/teamcity"
         }
       }
     },
@@ -304,7 +618,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/sonarqube"
+          "href": "http://localhost:3000/api/technologies/sonarqube"
         }
       }
     },
@@ -315,7 +629,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/codacy"
+          "href": "http://localhost:3000/api/technologies/codacy"
         }
       }
     },
@@ -326,7 +640,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/veracode"
+          "href": "http://localhost:3000/api/technologies/veracode"
         }
       }
     },
@@ -337,7 +651,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/slack"
+          "href": "http://localhost:3000/api/technologies/slack"
         }
       }
     },
@@ -348,7 +662,7 @@
       "image": "https://icongr.am/devicon/docker-original.svg?size=75&color=currentColor",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/dockerhub"
+          "href": "http://localhost:3000/api/technologies/dockerhub"
         }
       }
     },
@@ -360,7 +674,7 @@
       "versions": ["4.0.6"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/redis"
+          "href": "http://localhost:3000/api/technologies/redis"
         }
       }
     },
@@ -372,7 +686,7 @@
       "version": ["1.6.9"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/memcached"
+          "href": "http://localhost:3000/api/technologies/memcached"
         }
       }
     },
@@ -384,7 +698,7 @@
       "versions": ["5.2", "6.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/elasticsearch"
+          "href": "http://localhost:3000/api/technologies/elasticsearch"
         }
       }
     },
@@ -396,7 +710,7 @@
       "versions": ["3.2.6", "3.3.3"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/neo4j"
+          "href": "http://localhost:3000/api/technologies/neo4j"
         }
       }
     },
@@ -408,7 +722,7 @@
       "versions": ["5.6", "5.7"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/mysql"
+          "href": "http://localhost:3000/api/technologies/mysql"
         }
       }
     },
@@ -420,7 +734,7 @@
       "versions": ["15.0", "14.0", "13.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/sqlserver"
+          "href": "http://localhost:3000/api/technologies/sqlserver"
         }
       }
     },
@@ -431,7 +745,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/cosmosdb"
+          "href": "http://localhost:3000/api/technologies/cosmosdb"
         }
       }
     },
@@ -443,7 +757,7 @@
       "versions": ["3.0", "3.4", "3.6"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/mongodb"
+          "href": "http://localhost:3000/api/technologies/mongodb"
         }
       }
     },
@@ -455,7 +769,7 @@
       "versions": ["10.1", "10.2", "10.3"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/mariadb"
+          "href": "http://localhost:3000/api/technologies/mariadb"
         }
       }
     },
@@ -467,7 +781,7 @@
       "versions": ["9.6.6", "10.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/postgresql"
+          "href": "http://localhost:3000/api/technologies/postgresql"
         }
       }
     },
@@ -479,7 +793,7 @@
       "versions": ["3.11.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/cassandra"
+          "href": "http://localhost:3000/api/technologies/cassandra"
         }
       }
     },
@@ -490,7 +804,7 @@
       "versions": ["1.7.1", "2.1.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/couchdb"
+          "href": "http://localhost:3000/api/technologies/couchdb"
         }
       }
     },
@@ -502,7 +816,7 @@
       "versions": ["5.0", "3.1", "3.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/dotnet"
+          "href": "http://localhost:3000/api/technologies/dotnet"
         }
       }
     },
@@ -514,7 +828,7 @@
       "versions": ["v3.12.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/django"
+          "href": "http://localhost:3000/api/technologies/django"
         }
       }
     },
@@ -526,7 +840,7 @@
       "versions": ["0.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/dropwizard"
+          "href": "http://localhost:3000/api/technologies/dropwizard"
         }
       }
     },
@@ -538,7 +852,7 @@
       "versions": ["1.5.4.RELEASE", "1.5.9.RELEASE", "2.3.4.RELEASE"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/springboot"
+          "href": "http://localhost:3000/api/technologies/springboot"
         }
       }
     },
@@ -550,7 +864,7 @@
       "versions": ["3.5.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/vertx"
+          "href": "http://localhost:3000/api/technologies/vertx"
         }
       }
     },
@@ -562,7 +876,7 @@
       "versions": ["2.13.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/nameko"
+          "href": "http://localhost:3000/api/technologies/nameko"
         }
       }
     },
@@ -574,7 +888,7 @@
       "versions": ["4.17.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/express"
+          "href": "http://localhost:3000/api/technologies/express"
         }
       }
     },
@@ -586,7 +900,7 @@
       "versions": ["6.1", "6.0", "5.2", "5.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/rails"
+          "href": "http://localhost:3000/api/technologies/rails"
         }
       }
     },
@@ -598,14 +912,14 @@
       "versions": ["3", "4"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/loopback"
+          "href": "http://localhost:3000/api/technologies/loopback"
         }
       }
     },
     {
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/flask"
+          "href": "http://localhost:3000/api/technologies/flask"
         }
       },
       "title": "Flask",
@@ -622,7 +936,7 @@
       "versions": ["v17"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/hapi"
+          "href": "http://localhost:3000/api/technologies/hapi"
         }
       }
     },
@@ -634,7 +948,7 @@
       "versions": ["v7.0.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/restify"
+          "href": "http://localhost:3000/api/technologies/restify"
         }
       }
     },
@@ -646,7 +960,7 @@
       "versions": ["3.22.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/seneca"
+          "href": "http://localhost:3000/api/technologies/seneca"
         }
       }
     },
@@ -658,7 +972,7 @@
       "versions": ["0.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/beego"
+          "href": "http://localhost:3000/api/technologies/beego"
         }
       }
     },
@@ -670,7 +984,7 @@
       "versions": ["0.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gin"
+          "href": "http://localhost:3000/api/technologies/gin"
         }
       }
     },
@@ -682,7 +996,7 @@
       "versions": ["0.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gizmo"
+          "href": "http://localhost:3000/api/technologies/gizmo"
         }
       }
     },
@@ -694,7 +1008,7 @@
       "versions": ["v0.10.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gokit"
+          "href": "http://localhost:3000/api/technologies/gokit"
         }
       }
     },
@@ -706,7 +1020,7 @@
       "versions": ["2.7", "3.5", "3.6"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/python"
+          "href": "http://localhost:3000/api/technologies/python"
         }
       }
     },
@@ -718,7 +1032,7 @@
       "versions": ["v12", "v14", "v15"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/node"
+          "href": "http://localhost:3000/api/technologies/node"
         }
       }
     },
@@ -730,7 +1044,7 @@
       "versions": ["8", "11", "15", "16"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/java"
+          "href": "http://localhost:3000/api/technologies/java"
         }
       }
     },
@@ -742,7 +1056,7 @@
       "versions": ["1.2.30"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/kotlin"
+          "href": "http://localhost:3000/api/technologies/kotlin"
         }
       }
     },
@@ -754,7 +1068,7 @@
       "versions": ["1.15"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/golang"
+          "href": "http://localhost:3000/api/technologies/golang"
         }
       }
     },
@@ -766,7 +1080,7 @@
       "versions": ["7.0", "8.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/csharp"
+          "href": "http://localhost:3000/api/technologies/csharp"
         }
       }
     },
@@ -778,7 +1092,7 @@
       "versions": ["5.3.2", "5.2.4", "5.1.2"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/swift"
+          "href": "http://localhost:3000/api/technologies/swift"
         }
       }
     },
@@ -790,7 +1104,7 @@
       "versions": ["2.7.2", "2.4.10"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/ruby"
+          "href": "http://localhost:3000/api/technologies/ruby"
         }
       }
     },
@@ -802,7 +1116,7 @@
       "versions": ["1.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/kafka"
+          "href": "http://localhost:3000/api/technologies/kafka"
         }
       }
     },
@@ -814,7 +1128,7 @@
       "versions": ["3.8.14", "3.7.6", "3.7.0", "3.6.14"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/rabbitmq"
+          "href": "http://localhost:3000/api/technologies/rabbitmq"
         }
       }
     },
@@ -826,7 +1140,7 @@
       "versions": ["2.2", "2.0"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/nat"
+          "href": "http://localhost:3000/api/technologies/nat"
         }
       }
     },
@@ -837,7 +1151,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/github-package.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/github-package"
+          "href": "http://localhost:3000/api/technologies/github-package"
         }
       }
     },
@@ -849,7 +1163,7 @@
       "versions": ["7.0", "6.8.3", "6.6.1"],
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/nuget"
+          "href": "http://localhost:3000/api/technologies/nuget"
         }
       }
     },
@@ -860,7 +1174,7 @@
       "image": "https://icongr.am/simple/npm.svg?size=75&color=currentColor&colored=true",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/dockerhub"
+          "href": "http://localhost:3000/api/technologies/dockerhub"
         }
       }
     },
@@ -871,7 +1185,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/dockerhub"
+          "href": "http://localhost:3000/api/technologies/dockerhub"
         }
       }
     },
@@ -882,7 +1196,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/vault"
+          "href": "http://localhost:3000/api/technologies/vault"
         }
       }
     },
@@ -893,7 +1207,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/conjur"
+          "href": "http://localhost:3000/api/technologies/conjur"
         }
       }
     },
@@ -904,7 +1218,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/secrethub"
+          "href": "http://localhost:3000/api/technologies/secrethub"
         }
       }
     },
@@ -915,7 +1229,7 @@
       "image": "https://icongr.am/devicon/github-original.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/github"
+          "href": "http://localhost:3000/api/technologies/github"
         }
       }
     },
@@ -926,7 +1240,7 @@
       "image": "https://icongr.am/devicon/gitlab-original.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/gitlab"
+          "href": "http://localhost:3000/api/technologies/gitlab"
         }
       }
     },
@@ -937,7 +1251,7 @@
       "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/bitbucket"
+          "href": "http://localhost:3000/api/technologies/bitbucket"
         }
       }
     },
@@ -948,7 +1262,7 @@
       "image": "https://icongr.am/devicon/tomcat-original.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/tomcat"
+          "href": "http://localhost:3000/api/technologies/tomcat"
         }
       }
     },
@@ -959,7 +1273,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/undertow.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/undertow"
+          "href": "http://localhost:3000/api/technologies/undertow"
         }
       }
     },
@@ -970,7 +1284,7 @@
       "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/jetty.svg",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/jetty"
+          "href": "http://localhost:3000/api/technologies/jetty"
         }
       }
     },
@@ -981,7 +1295,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/rest"
+          "href": "http://localhost:3000/api/technologies/rest"
         }
       }
     },
@@ -992,7 +1306,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/soap"
+          "href": "http://localhost:3000/api/technologies/soap"
         }
       }
     },
@@ -1003,7 +1317,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/graphql"
+          "href": "http://localhost:3000/api/technologies/graphql"
         }
       }
     },
@@ -1014,7 +1328,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/feed"
+          "href": "http://localhost:3000/api/technologies/feed"
         }
       }
     },
@@ -1025,7 +1339,7 @@
       "description": "Description placeholder, not to exceed 255 characters",
       "_links": {
         "self": {
-          "href": "http://localhost:3000/technologies/grpc"
+          "href": "http://localhost:3000/api/technologies/grpc"
         }
       }
     }
