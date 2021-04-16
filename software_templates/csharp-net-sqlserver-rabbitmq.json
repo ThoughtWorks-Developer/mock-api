@@ -42,33 +42,30 @@
                 "version": ""
             },
             "app_integration": {
-
             }
         },
         "cicd": {
-            "version_control": { 
+            "code_repository": { 
                 "name": "github"
             },
-            "cisystem": {
-                "name": "travisci"
+            "ci_system": {
+                "name": "github-actions"
             },
             "build_tool": {
-                "name": "",
+                "name": "maven",
                 "version": ""
             },
             "code_quality": {
-                "name": "",
-                "version": ""
+                "name": "sonarqube"
             },
             "test_automation": {
-                "name": "",
-                "version": ""
+                "name": "postman"
             },
-            "container_registery": {
+            "container_registry": {
                 "name": "dockerhub"
             },
             "package_repository": {
-                "name": "helm"
+                "name": "github-packages"
             }
         }
     },

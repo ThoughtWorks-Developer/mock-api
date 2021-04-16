@@ -34,7 +34,7 @@
     "title": "NATS",
     "subtitle": "Messaging",
     "description": "NATS.io is a simple, secure and high performance open source messaging system for cloud native applications, IoT messaging, and microservices architectures.",
-    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/nats.svg",
     "versions": [
       "2.2",
       "2.0"

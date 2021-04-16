@@ -1,7 +1,7 @@
 [
   {
     "title": "Slack",
-    "subtitle": "Communication",
+    "subtitle": "Communication Tool",
     "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/slack.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {

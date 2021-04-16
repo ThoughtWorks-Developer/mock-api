@@ -43,10 +43,10 @@
             }
         },
         "cicd": {
-            "version_control": { 
+            "code_repository": { 
                 "name": "github"
             },
-            "cisystem": {
+            "ci_system": {
                 "name": "travisci"
             },
             "build_tool": {
@@ -61,7 +61,7 @@
                 "name": "postman",
                 "version": ""
             },
-            "container_registery": {
+            "container_registry": {
                 "name": "dockerhub"
             },
             "package_repository": {

@@ -1,7 +1,7 @@
 [
    {
       "title": "GitHub",
-      "subtitle": "Version Control",
+      "subtitle": "Code Repository",
       "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/devicon/github-original.svg",
       "_links": {
@@ -12,7 +12,7 @@
    },
    {
       "title": "GitLab",
-      "subtitle": "Version Control",
+      "subtitle": "Code Repository",
       "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/devicon/gitlab-original.svg",
       "_links": {
@@ -23,7 +23,7 @@
    },
    {
       "title": "Bitbucket",
-      "subtitle": "Version Control",
+      "subtitle": "Code Repository",
       "description": "Description placeholder, not to exceed 255 characters",
       "image": "https://icongr.am/simple/bitbucket.svg?size=128&color=currentColor&colored=true",
       "_links": {

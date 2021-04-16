@@ -46,7 +46,7 @@
   {
     "title": "GRPC",
     "subtitle": "Web Service",
-    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
+    "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/grpc.svg",
     "description": "Description placeholder, not to exceed 255 characters",
     "_links": {
       "self": {
