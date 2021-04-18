@@ -1,4 +1,4 @@
 .DS_Store
-integrations.json
-technologies.json
-software_templates.json
+data/integrations.json
+data/technologies.json
+data/software_templates.json

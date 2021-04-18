@@ -1,6 +1,6 @@
 {
-    "name": "java-springboot-postgresql-rabbitmq",
-    "title": "Building REST API with Spring Web and PostgreSQL",
+    "name": "csharp-net-sqlserver-rabbitmq",
+    "title": "Creating a data-driven CRUD microservice",
     "type": "webservice",
     "tech_stack": {
         "architecture": {
@@ -23,23 +23,27 @@
         },
         "development": {
             "language": { 
-                "name": "java",
+                "name": "csharp",
                 "version": "",
                 "featured": true
             },
             "framework": { 
-                "name": "springboot",
+                "name": "dotnet",
                 "version": "",
                 "featured": true
             },
-            "database": { 
-                "name": "postgresql",
+            "sql": { 
+                "name": "sqlserver",
                 "version": "",
                 "featured": true
             },
             "messaging": {
                 "name": "rabbitmq",
                 "version": ""
+            },
+            "observability": {
+            },
+            "app_integration": {
             }
         },
         "cicd": {
@@ -47,25 +51,23 @@
                 "name": "github"
             },
             "ci_system": {
-                "name": "travisci"
+                "name": "github-actions"
             },
             "build_tool": {
-                "name": "",
+                "name": "maven",
                 "version": ""
             },
             "code_quality": {
-                "name": "",
-                "version": ""
+                "name": "sonarqube"
             },
             "test_automation": {
-                "name": "",
-                "version": ""
+                "name": "postman"
             },
             "container_registry": {
                 "name": "dockerhub"
             },
             "package_repository": {
-                "name": "helm"
+                "name": "github-packages"
             }
         }
     },
@@ -73,7 +75,7 @@
     "published": "",
     "_links": {
         "self": {
-            "href": "https://localhost:3000/api/software_templates/d620cd55-86ed-433d-b488-6c3a40c1140f"
+            "href": "https://localhost:3000/api/software_templates/e941840a-188d-4f38-aa4d-57d1436e4a08"
         }
     }
 }

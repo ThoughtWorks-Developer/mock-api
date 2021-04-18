@@ -1,6 +1,6 @@
 {
-    "name": "python-flask-mongodb-rabbitmq",
-    "title": "Developing APIs with Python and Flask",
+    "name": "golang-gokit-cassandra-rabbitmq",
+    "title": "Building a microservice with Golang and Go-Kit",
     "type": "webservice",
     "tech_stack": {
         "architecture": {
@@ -23,23 +23,27 @@
         },
         "development": {
             "language": { 
-                "name": "python",
-                "version": "3.9.4",
+                "name": "golang",
+                "version": "",
                 "featured": true
             },
             "framework": { 
-                "name": "flask",
-                "version": "1.1.2",
+                "name": "gokit",
+                "version": "",
                 "featured": true
             },
-            "database": { 
-                "name": "mongodb",
-                "version": "3.6",
+            "nosql": { 
+                "name": "cassandra",
+                "version": "",
                 "featured": true
             },
             "messaging": {
                 "name": "rabbitmq",
-                "version": "3.7.6"
+                "version": ""
+            },
+            "observability": {
+            },
+            "app_integration": {
             }
         },
         "cicd": {
@@ -50,15 +54,15 @@
                 "name": "travisci"
             },
             "build_tool": {
-                "name": "pyb",
-                "version": "0.12"
+                "name": "",
+                "version": ""
             },
             "code_quality": {
                 "name": "",
                 "version": ""
             },
             "test_automation": {
-                "name": "postman",
+                "name": "",
                 "version": ""
             },
             "container_registry": {
@@ -73,7 +77,7 @@
     "published": "",
     "_links": {
         "self": {
-            "href": "https://localhost:3000/api/software_templates/6e13400a-74ac-4e63-b554-71c733d69935"
+            "href": "https://localhost:3000/api/software_templates/84a78a01-ecb9-4312-b155-14959fc1cc07"
         }
     }
 }

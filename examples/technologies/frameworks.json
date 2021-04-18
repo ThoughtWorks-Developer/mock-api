@@ -49,9 +49,8 @@
     "description": "Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications",
     "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
     "versions": [
-      "1.5.4.RELEASE",
-      "1.5.9.RELEASE",
-      "2.3.4.RELEASE"
+      "2.3.4",
+      "2.4.5"
     ],
     "_links": {
       "self": {
@@ -134,20 +133,19 @@
     }
   },
   {
+    "title": "Connexion",
+    "subtitle": "Framework",
+    "description": "Connexion is a framework on top of Flask to automagically handle your REST API request based on OpenAPI specification.",
+    "image": "https://icongr.am/simple/zalando.svg?colored=true",
+    "versions": [
+      "2.7.0"
+    ],
+    "tags": [ "python" ],
     "_links": {
       "self": {
-        "href": "http://localhost:3000/api/technologies/flask"
+        "href": "http://localhost:3000/api/technologies/connexion"
       }
-    },
-    "title": "Flask",
-    "subtitle": "Framework",
-    "description": "Flask is a lightweight WSGI web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.",
-    "image": "https://icongr.am/simple/flask.svg?color=000000",
-    "versions": [
-      "1.1.2",
-      "1.1.1",
-      "1.1.0"
-    ]
+    }
   },
   {
     "title": "hapi",

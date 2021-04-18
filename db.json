@@ -316,30 +316,6 @@
       }
     }
   ],
-  "integrations": [
-    {
-      "title": "SwaggerHub",
-      "subtitle": "API Description",
-      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/api/integrations/swaggerhub"
-        }
-      }
-    },
-    {
-      "title": "Stoplight",
-      "subtitle": "API Description",
-      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/placeholder.svg",
-      "description": "Description placeholder, not to exceed 255 characters",
-      "_links": {
-        "self": {
-          "href": "http://localhost:3000/api/integrations/stoplight"
-        }
-      }
-    }
-  ],
   "technologies": [
     {
       "title": "Swagger",
@@ -1566,6 +1542,50 @@
       "_links": {
         "self": {
           "href": "http://localhost:3000/api/technologies/grpc"
+        }
+      }
+    },
+    {
+      "title": "Datadog",
+      "subtitle": "Observability",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://icongr.am/simple/datadog.svg?colored=true",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/api/technologies/datadog"
+        }
+      }
+    },
+    {
+      "title": "Prometheus",
+      "subtitle": "Observability",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://icongr.am/simple/prometheus.svg?colored=true",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/api/technologies/prometheus"
+        }
+      }
+    },
+    {
+      "title": "InfluxDB",
+      "subtitle": "Observability",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://icongr.am/simple/influxdb.svg?colored=true",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/api/technologies/influxdb"
+        }
+      }
+    },
+    {
+      "title": "New Relic",
+      "subtitle": "Observability",
+      "description": "Description placeholder, not to exceed 255 characters",
+      "image": "https://res.cloudinary.com/tw-developer/image/upload/assets/Icons/newrelic.svg",
+      "_links": {
+        "self": {
+          "href": "http://localhost:3000/api/technologies/newrelic"
         }
       }
     }

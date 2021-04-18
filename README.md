@@ -4,7 +4,7 @@
 ### Combine Technology data
 
 ```
-jq -n '{ technologies: [ inputs ] | add }' technologies/*.json > technologies.json
+jq -n '{ technologies: [ inputs ] | add }' examples/technologies/*.json > examples/technologies.json
 ```
 
 jq -n '{ integrations: [ inputs ] | add }' integrations/*.json > integrations.json
@@ -12,29 +12,24 @@ jq -n '{ integrations: [ inputs ] | add }' integrations/*.json > integrations.js
 ### Combine Integrations data
 
 ```
-jq -s . integrations/*.json > integrations.json
+jq -s . examples/integrations/*.json > examples/integrations.json
 ```
 
 ### Combine Software Templates data
 
 ```
-jq -s . software_templates/*.json > software_templates.json
+jq -s . examples/software_templates/*.json > examples/software_templates.json
 ```
 
 ### Combine all data
 
 ```
-jq s . technologies.json integrations.json software_templates.json > db.json
+jq s . examples/technologies.json examples/integrations.json examples/software_templates.json > db.json
 ```
 
-### Remove
-
-```
-rm -rf technologies.json integrations.json software_templates.json
-```
 
 ### Start Json Server
 
 ```
-json-server --routes routes.json --watch db.json
+json-server --watch db.json
 ```

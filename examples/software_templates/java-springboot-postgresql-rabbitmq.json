@@ -1,6 +1,6 @@
 {
-    "name": "golang-gokit-cassandra-rabbitmq",
-    "title": "Building a microservice with Golang and Go-Kit",
+    "name": "java-springboot-postgresql-rabbitmq",
+    "title": "Building REST API with Spring Web and PostgreSQL",
     "type": "webservice",
     "tech_stack": {
         "architecture": {
@@ -23,23 +23,33 @@
         },
         "development": {
             "language": { 
-                "name": "golang",
+                "name": "java",
                 "version": "",
                 "featured": true
             },
             "framework": { 
-                "name": "gokit",
+                "name": "springboot",
                 "version": "",
                 "featured": true
             },
-            "database": { 
-                "name": "cassandra",
+            "web": {
+                "name": "springmvc"
+            },
+            "sql": { 
+                "name": "postgresql",
                 "version": "",
                 "featured": true
+            },
+            "nosql": {
+                "name": "redis",
+                "version": "",
             },
             "messaging": {
                 "name": "rabbitmq",
                 "version": ""
+            },
+            "observability": {
+                "name": "datadog"
             }
         },
         "cicd": {
@@ -73,7 +83,7 @@
     "published": "",
     "_links": {
         "self": {
-            "href": "https://localhost:3000/api/software_templates/84a78a01-ecb9-4312-b155-14959fc1cc07"
+            "href": "https://localhost:3000/api/software_templates/d620cd55-86ed-433d-b488-6c3a40c1140f"
         }
     }
 }
